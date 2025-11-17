@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "01006710",
+    "name": "INTRODUCTION TO CALCULUS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Functions, limits, continuity and their applications, Mathematical induction, Introduction to derivative, Differentiation, Applications of derivative, Definite integrals, Antiderivative integration, Application of definite integral, Indeterminate forms, Improper integrals, Numerical integration, Sequences and series of numbers, Taylor series expansions of elementary functions."
+  },
+  {
+    "id": "01006716",
+    "name": "LINEAR ALGEBRA",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Matrices and system of linear equations; Solving system of linear equations; Vector spaces and subspaces; Orthogonality; Determinants; Eigenvalues and Eigenvectors; Linear transformation."
+  },
+  {
+    "id": "01006717",
+    "name": "DIFFERENTIAL EQUATIONS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006710 Introduction to Calculus",
+    "description": "Differential equations and their solutions; First-Order Differential Equations; Applications of First-Order Differential Equations; Explicit Method of Solving Higher-Order Linear Differential Equations; Applications of Second-Order Linear Differential Equations; Systems of Linear Equations."
+  },
+  {
+    "id": "01006718",
+    "name": "DISCRETE MATHEMATICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Basic set theory, theory and techniques of counting, properties of integers, mathematical induction, recursive definitions, recurrent equations, sequences and summations, relations, graphs, and trees."
+  },
+  {
+    "id": "01006730",
+    "name": "PROBABILITY MODELS AND DATA ANALYSIS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006710 Introduction to Calculus",
+    "description": "Axioms of probability, conditional probability and independence, discrete random variables and probability distributions, continuous random variables and probability distributions, joint probability distributions and random samples, exploratory data analysis, hypothesis testing, estimation and linear regression."
+  },
+  {
+    "id": "01286111",
+    "name": "CIRCUITS AND ELECTRONICS",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "None",
+    "description": "Fundamentals electric circuit. Ohm's law, Kirchhoff's law, Thevenin's and Norton's theorems, superposition, capacitor, Inductor. Semiconductor devices, device current-voltage and frequency characteristics, P-N junction, diode circuits, analysis, and design of BJT and MOS transistor circuits, operational amplifier, and its applications."
+  },
+  {
+    "id": "01286112",
+    "name": "DIGITAL SYSTEM FUNDAMENTALS",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "None",
+    "description": "Introduction to digital systems; binary systems; Boolean algebra and simplification; combinational circuit; sequential components, i.e., Latches, flip-flops, registers, and counters; sequential circuits; basic ALU (arithmetic and logic unit) and control unit; hardware description language."
+  },
+  {
+    "id": "01286120",
+    "name": "ELEMENTARY SYSTEMS PROGRAMMING",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "None",
+    "description": "This is an introductory course in systems programming using the Rust language. Emphasis is placed on developing the students’ abilities in the design and implementation of algorithms. The course describes the fundamentals of program design and implementation in Rust, variables and data types, input and output statements, conditional statements, loop statements, functions, modules, parameter passing, references and pointers, arrays and complex arrays, strings, files, memory, and ownership."
+  },
+  {
+    "id": "01286121",
+    "name": "COMPUTER PROGRAMMING",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "None",
+    "description": "This course provides an introduction to basic components of a computer and computer operation, an introduction to a programming language, basics of computer programming using structured and object-oriented approaches, data types, program structures, GUI (Graphical User Interface) programming, and some examples of computer programming to serve various purposes."
+  },
+  {
+    "id": "01286131",
+    "name": "OBJECT-ORIENTED PROGRAMMING",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286121 Computer Programming",
+    "description": "This course introduces the key concepts of object-oriented programming including objects and classes, encapsulation, abstraction, inheritances, polymorphism, as well as exception handling. Rather than the syntax of a particular programming language, the course emphasizes on how to think in term of objects. Students need to analyze program specifications and identify appropriate classes and objects. Additional programming topics include basic UML modelling such as class diagram and object diagram, principles of object-oriented design, and design patterns."
+  },
+  {
+    "id": "01286213",
+    "name": "COMPUTER ARCHITECTURE AND ORGANIZATION",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286112 Digital System Fundamentals",
+    "description": "Overview of computer architecture and organization; assembly programming and instruction set architecture; high-level software to low-level instructions; data representation; computer arithmetic; memory allocation and access; central processing unit; memory hierarchy; data transfer and input/output (I/O) techniques; measuring system performance. Additional topics include parallelism in computer architecture, and introduction to GPU."
+  },
+  {
+    "id": "01286222",
+    "name": "DATA STRUCTURES AND ALGORITHMS",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286131 Object-Oriented Programming",
+    "description": "Fundamental of solving problems using data structures including linked lists, trees, stacks, queues, hash tables, and graphs. Algorithms for sorting, searching, and other fundamental operations. Introduction to foundations for analysis of iterative and recursive algorithms. Implementation of selected algorithms using object-oriented paradigm."
+  },
+  {
+    "id": "01286223",
+    "name": "COMPUTER NETWORKS",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "Fundamental concepts and protocols in computer networks, particularly IP networks. Packet switching and circuit switching networks, layered network architectures. Application layer protocols, TCP/IP protocol suite, routing protocols, link layer protocols and multiple access networks. Wired and wireless local area network standards."
+  },
+  {
+    "id": "01286228",
+    "name": "ALGORITHM DESIGN AND ANALYSIS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course provides a study of theories and techniques of algorithm design and analysis. For algorithm design, students will study a wide range of algorithmic solutions to problems from various application areas, including searching, sorting, optimization, and important problems in graph theory. In addition, important design paradigms will be covered including greedy methods, divide-and-conquer methods, dynamic programming, backtracking, and branch-and- bound methods. For algorithm analysis, students will practice analyzing the execution time and the resource consumption of algorithms, and related mathematical techniques."
+  },
+  {
+    "id": "01286232",
+    "name": "SOFTWARE ENGINEERING PRINCIPLES",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286131 Object-Oriented Programming",
+    "description": "This course is the study of important principles and concepts of software engineering, as well as an overview of software development processes. The topics include software development processes, requirement and specification of software, introduction to business process analysis and modelling, structured and object-oriented software analysis, design, and modelling, software verification and validation, software project management, software evolution and maintenance, and computer-aided software engineering (CASE) tools."
+  },
+  {
+    "id": "01286233",
+    "name": "WEB PROGRAMMING",
+    "credits": "4 (3-3-8)",
+    "prerequisite": "01286131 Object-Oriented Programming",
+    "description": "This course introduces the concepts of web programming and web applications development. The topics covered include basic construction of web page, HTML5, document object model (DOM), cascading style sheets (CSS), JavaScript, model-view-controller design, web framework, design concepts, as well as brief introduction to RESTful web services"
+  },
+  {
+    "id": "01286241",
+    "name": "DATABASE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "Database system concepts; files and databases; database system architecture; data entities and relationships; data modeling using Entity-Relation Diagrams and normalization technique; hierarchical; network and relational models of databases; query language and database language."
+  },
+  {
+    "id": "01286324",
+    "name": "OPERATING SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286213 Computer Architecture and Organization",
+    "description": "Organization and structure of operating systems. Control, communication, and synchronization of concurrent processes. Processor and job scheduling. Memory organization and management including paging, segmentation, and virtual memory. Resource management. Deadlock avoidance, detection, recovery. File system concepts and structure. Protection and security. Distributed processing. A brief introduction to OS virtualization and cloud computing."
+  },
+  {
+    "id": "01286325",
+    "name": "INFORMATION AND COMPUTER SECURITY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "Overview of theories, principles, and knowledge in information security; Risk management, Access control; Encryption and Decryption; Physical security; Security architecture; Business continuity plan; Application security; Operating system and Service platform protections; Threats and Malwares; Basis of network security; Privacy, Ethical, and Legal issues."
+  },
+  {
+    "id": "01286326",
+    "name": "THEORY OF COMPUTATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006718 Discrete Mathematics",
+    "description": "Finite automata, regular expressions, push-down automata, context free grammars, pumping lemmas, Turing machines, Time and space complexity measures, P and NP complete problems."
+  },
+  {
+    "id": "01286327",
+    "name": "COMPILER CONSTRUCTION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286326 Theory of Computation",
+    "description": "This course studies theories and concepts for constructing computer language translators. The topics include lexical analysis, syntax analysis, parser construction, syntax-directed translation, type checking, run-time environment handling, intermediate and machine code generation and code optimization, interpreter construction, together with case studies of compiler design and construction for some computer languages."
+  },
+  {
+    "id": "01286334",
+    "name": "SOFTWARE DESIGN AND ARCHITECTURE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course introduces basic concepts and principles of software design and software architecture. It starts with discussion on design issues, followed by coverage on design patterns. It then gives an overview of architectural structures and styles. Practical approaches and methods for creating and analyzing software architecture are presented. The emphasis is on the interaction between quality attributes and software architecture. Students will also gain experiences with examples in design pattern application and case studies in software architecture."
+  },
+  {
+    "id": "01286335",
+    "name": "SOFTWARE DEVELOPMENT PROCESS AND PROJECT MANAGEMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "A software development process is a set of activities, methods, and practices that are used in the production and maintenance process of software. This course is concerned with improving the processes used to develop and maintain high-quality software in a timely and economical manner. It covers the evolutions of different software development models and the currently popular and successful process models, for example, iterative software development (e.g. spiral models and the Rational Unified Process (RUP)), agile software development (e.g. Extreme Programming (XP), Agile Modeling (AM), Scrum, Crystal, Feature-Driven Development (FDD), and Incremental Funding Method (IFM)), Test-Driven Development (TDD), Personal Software Process (PSP), Team Software Process (TSP), and software maturity frameworks, such as the Capability Maturity Model (CMM). The course also covers software project management which includes estimating the effort in software projects, project planning and monitoring, costing and budgeting, risk management, testing strategies, and quality assurance."
+  },
+  {
+    "id": "01286336",
+    "name": "USER EXPERIENCE AND USER INTERFACE DESIGN",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286233 Web Programming",
+    "description": "This course provides a comprehensive overview of the user experience and user interface design process, and is intended to familiarize students with the methods, concepts, and techniques necessary to make user experience design an integral part of developing information interfaces. The course provides students with an opportunity to acquire the resources, skills, and hands-on experience they need to design, develop, and evaluate information interfaces from a user-centered design perspective."
+  },
+  {
+    "id": "01286337",
+    "name": "SOFTWARE VERIFICATION AND VALIDATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course studies three important methods for software verification and validation: testing, peer reviews, and formal verification, with emphasis on testing. Topics on testing include the necessity and limitations of testing, an overview of test processes, testing throughout the software development life cycle, unit testing, test design techniques, test automation, tool support for testing, and test management. The course will study how software peer reviews, which can help detect and prevent software defects, are carried out in practice and study the inspection processes throughout the software development life cycle, including the inspection of requirement documents, design documents, code, and test plans. The course will also provide a basic understanding of formal verification techniques, such as Hoare Logic and model checking."
+  },
+  {
+    "id": "01286342",
+    "name": "ARTIFICIAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structure and Algorithms",
+    "description": "Meanings of artificial intelligence; Various knowledge representations, such as semantic networks, frames, rules, logic, etc.; Problem solving by search, i.e., uninformed search, heuristic search, playing games using search, elementary logic, logical reasoning, knowledge base systems, rule-based production systems; Expert systems; Machine learning, planning; Intelligent agents; Computer languages for artificial intelligence."
+  },
+  {
+    "id": "01286391",
+    "name": "SEMINAR IN SOFTWARE ENGINEERING",
+    "credits": "0 (0-3-0)",
+    "prerequisite": "None",
+    "description": "This course requires the students to attend seminars, lectures, and/or talks, given by invited speakers who are well-known in the software industry or in research and development in computing-related areas. The students are required to submit a written report summarizing what they have learned from each seminar."
+  },
+  {
+    "id": "01286601",
+    "name": "ADVANCED TOPICS IN SOFTWARE ENGINEERING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "Study of selected advanced topics in software engineering which are important at present"
+  },
+  {
+    "id": "01286602",
+    "name": "ADVANCED TOPICS IN SOFTWARE ARCHITECTURE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286334 Software Design and Architecture",
+    "description": "Study of selected advanced topics in software architecture which are important at present"
+  },
+  {
+    "id": "01286603",
+    "name": "ADVANCED TOPICS IN DATABASE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286241 Database Systems",
+    "description": "Study of selected advanced topics in database systems which are important at present"
+  },
+  {
+    "id": "01286604",
+    "name": "ADVANCED TOPICS IN COMPUTER NETWORKS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "Study of selected advanced topics in computer networks which are important at present"
+  },
+  {
+    "id": "01286605",
+    "name": "PROGRAMMING LANGUAGES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286131 Object-Oriented Programming",
+    "description": "This course studies the evolution of programming languages and their relationship. It covers important concepts and issues in programming language design, including syntax and semantics of programming languages, data types, abstraction, polymorphism, and program decomposition. The course also studies important programming language paradigms, such as object-oriented programming, functional programming, and logic programming, by referring to case studies of contemporary programming languages, such as C, C++, Java, Lisp, Prolog, ML, and Python."
+  },
+  {
+    "id": "01286606",
+    "name": "FUNCTIONAL PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This programming course covers the principles of functional programming, including the use of functions as values, recursion, immutability, pattern matching, higher-order functions and collections, and lazy evaluation. Additional topics include practical uses of functional programming, such as big data processing."
+  },
+  {
+    "id": "01286607",
+    "name": "OPERATIONS RESEARCH",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "The course provides an introduction to operation research methods, including linear programming, dynamic programming, game theory, queuing theory, CPM and PERT, and operation research techniques applied to industrial control planning and management."
+  },
+  {
+    "id": "01286608",
+    "name": "INTRODUCTION TO PARALLEL COMPUTING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286213 Computer Architecture and Organization",
+    "description": "The course introduces parallel computing and parallel programming, covering the following topics: concepts of parallel computing, architectures of parallel computing systems, SIMD and MIMD, shared-memory and distributed-memory systems, parallel algorithms, data dependencies and parallelism, synchronization, performance analysis of parallel programs, and programming in parallel programming languages."
+  },
+  {
+    "id": "01286609",
+    "name": "SOFTWARE QUALITY ASSURANCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course introduces concepts, metrics, and models in software quality assurance. The course covers components of software quality assurance systems before, during, and after software development. It also discusses metrics and models for software quality as a product, in process, and in maintenance. The Capability Maturity Model (CMM) will be introduced, as well as related ISO and IEEE standards. Students will gain an understanding of software quality and approaches to assure software quality."
+  },
+  {
+    "id": "01286610",
+    "name": "SOFTWARE METRICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course covers a step-by-step study of software metrics. It includes an introduction to foundations of measurement theory, models of software engineering measurement, software product metrics, software process metrics and measuring management. The course comprises of the following basic modules: measurement theory (overview of software metrics, basics of measurement theory, goal-based framework for software measurement, empirical investigation in software engineering), software product and process measurements (measuring internal product attributes: size and structure, measuring external product attributes: quality, measuring cost and effort, measuring software reliability, software test metrics, and object- oriented metrics), and measurement management."
+  },
+  {
+    "id": "01286611",
+    "name": "NETWORK PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "This course provides the students with a study of network application development, networking protocol usage, and performance of network applications. The students will gain understanding and practical skills in developing programs which communicate using protocols in different layers of the Internet protocol suite, including application-layer protocols (such as HTTP, FTP, DNS, SMTP, etc.), transport-layer and network-layer protocols (such as TCP, UDP, IP, ICMP, etc.), as well as secured protocols (such as HTTPS, IPSec, and various authentication protocols). The students will learn to use networking services provided by the operating system or support libraries, as well as techniques and tools which facilitate the testing and debugging of network applications."
+  },
+  {
+    "id": "01286620",
+    "name": "SELECTED TOPICS IN METAVERSE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Selected topics of current interest related to metaverse"
+  },
+  {
+    "id": "01286621",
+    "name": "COMPUTER GRAPHICS AND MIXED REALITY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "Overview of graphic systems; input-output devices; scan-conversion; two-dimensional transformations; translation; scaling; rotation; reflection; shearing; windowing concepts; clipping algorithms; window-to-viewport transformation; three-dimensional concepts; three- dimensional representations; three-dimensional transformations; three-dimensional viewing; hidden-surface and hidden-line removal; shading and color models; 3D worlds; computer graphic programming using OpenGL; introduction to Mixed Reality (MR), which includes Virtual Reality (VR) and Augmented Reality (AR); development of Metaverse web applications using WebGL Mixed Reality libraries or a Mixed Reality web framework."
+  },
+
+  {
+    "id": "01286622",
+    "name": "WEB SERVICE DEVELOPMENT AND SERVICE-ORIENTED ARCHITECTURE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286233 Web Programming",
+    "description": "This course provides a study of web service development and Service Oriented Architecture (SOA) with an introduction to microservices and cloud computing. The class focuses on the technical concepts of web services based on HTTP and REST protocols, and how to develop RESTful service APIs using a web-service platform available. The course also introduces students to microservices, SOA, and how to develop microservices on a SOA for service scalability using cloud computing platform available."
+  },
+  {
+    "id": "01286623",
+    "name": "DISTRIBUTED COMPUTING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286324 Operating Systems",
+    "description": "This course covers a broad range of topics related to distributed systems, including distributed architectures, group communication, synchrony, clock synchronization, message ordering, mutual exclusion, distributed consensus, data replication, fault tolerance, and CAP theorem. Selected applications of distributed computing that are of current interest, such as distributed ledger technology and blockchains, are also studied."
+  },
+  {
+    "id": "01286624",
+    "name": "ADVANCED DATABASE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286241 Database Systems",
+    "description": "Database management systems; structure and components; physical databases; access mechanisms; query processing; transaction processing; recovery control; concurrency control; distributed database systems; object-oriented databases; deductive databases."
+  },
+  {
+    "id": "01286625",
+    "name": "BLOCKCHAIN TECHNOLOGY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286325 Information and Computer Security OR 01286223 Computer Networks",
+    "description": "This course introduces fundamentals of blockchain, its underlying technologies, and applications. The course starts by exploring how blockchain and distributed ledger work. Types of blockchain network will be explained, namely public, private, and consortium. The course then covers cryptographic proof and blockchain consensus. Students will learn how to develop distributed applications with smart contracts and integrate blockchain technology into their projects. Additional topics include blockchain security issues, and related regulations."
+  },
+  {
+    "id": "01286626",
+    "name": "GEOGRAPHIC INFORMATION SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286241 Database Systems",
+    "description": "This course provides a foundation of geographic information systems (GIS). The topics include meaning and applications of GIS, digital representation, map projection, coordinate systems, spatial data modeling, spatial databases, geometry functions, data input and editing, remote sensing, GPS, GIS data quality, GIS data visualization, GIS requirement analysis, design, and development, GIS applications, Web-based GIS, Mobile GIS, software tools for GIS development, and GIS technology and its future."
+  },
+  {
+    "id": "01286627",
+    "name": "BIG DATA",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286241 Database Systems",
+    "description": "The course provides an overview of the challenges of big data and existing solutions. Covered in this course includes an introduction to the following topics: data capturing, storage, processing, retrieval, analysis, and visualization. The students will also learn some useful software tools or libraries for processing or analyzing big data."
+  },
+  {
+    "id": "01286628",
+    "name": "BUSINESS PROCESSES AND ENTERPRISE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course introduces students to the critical role of business processes and the enabling information technology in modern organizations. Over the last decade, companies have implemented enterprise systems to automate and integrate business processes and to connect the entire organization, including suppliers and customers, in a web-enabled computing environment. In this course, students will study: (1) the main business processes, i.e. supply-side, demand-side, and support processes, and their integration within the firm as well as with customers and suppliers; (2) the principles and capabilities of state-of-the-art enterprise systems, such as enterprise resource planning systems (ERP), supply chain management systems (SCM), customer relationship management systems (CRM) and business intelligence (BI) systems; (3) the implications of alternative business strategies on business process design and the selection and configuration of enterprise systems. Students will develop the conceptual skills to translate business objectives and strategies into an appropriate business process design using Business Process Modeling Notation (BPMN) language and to configure enterprise systems accordingly. In addition, students will gain hands-on experiences with a few case-studies of business enterprise systems."
+  },
+  {
+    "id": "01286629",
+    "name": "GAME DEVELOPMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286621 Computer Graphics and Mixed Reality",
+    "description": "This course provides a study of technology, science, and art involved in the development of computer games. Students will study a variety of software technologies relevant to computer game design and development. Topics to be studied will be taken from several related areas, including simulation and modeling, computer graphics, artificial intelligence, real-time processing, human-computer interaction, graphic design, and game aesthetics."
+  },
+  {
+    "id": "01286640",
+    "name": "SELECTED TOPICS IN THE INDUSTRIAL INTERNET OF THINGS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Selected topics of current interest related to the Industrial Internet of Things"
+  },
+  {
+    "id": "01286641",
+    "name": "REAL-TIME EMBEDDED SYSTEM DESIGN AND DEVELOPMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286213 Computer Architecture and Organization",
+    "description": "Embedded systems are anywhere ranging from wearable devices, sensors, smart meters, drones, robots, and cars. This course provides a concrete study of real-time embedded system design and development. It covers the popular System-on-Chip (SoC) paradigm, real-time embedded system architectures, on-chip interconnects and memory systems, architectures of well-known embedded processors, such as ARM processors, models of computation and scheduling of embedded systems, multi-threading management, concepts of a real-time system, and finally metrics of embedded systems, i.e. performance, real-time characteristic, power consumption, reliability. For the system development part, the course covers the development lifecycle of a real-time embedded system. The purpose is to provide students with the knowledge and skills to design and develop a real-time embedded system. The course takes a requirement-driven design approach, where a functional specification is derived from a set of system requirements and then mapped into hardware and software components."
+  },
+  {
+    "id": "01286642",
+    "name": "INDUSTRIAL IOT NETWORKS AND COMMUNICATIONS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "With very limited memory and processing power as well as low energy consumption of IoT (Internet of Things) devices, their communication networks are so designed and developed to meet these constraints. This course will focus on widely industrial standards of computer networks and communications technologies developed specifically for industrial IoT devices, including network architectures and protocols layers. Another important topic covered by this course is network security for industrial IoT communication. It is the study how to make secure communications between industrial IoT devices by incorporating encryption into the communication protocol. Widely used encryption techniques are also studied."
+  },
+  {
+    "id": "01286643",
+    "name": "CYBER-PHYSICAL SYSTEMS AND INDUSTRY 4.0",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "We define any system that bridges the cyber-world of computing and communications with the physical world as cyber-physical systems (CPS). This course provides introduction to a CPS of an Industrial IoT system in a smart factory, and the concept of Digital Twin. As CPSs are the essential part of Industry 4.0, the course also provides an introduction to Industry 4.0. In this course, the students study the foundation of factory automation, Programmable Logic Controllers (PLC), standard communication protocols for factory automation, and finally a SCADA (Supervisory Control And Data Acquisition) software, the software which is used to develop a CPS, in details with a hand-on case study of a real-world CPS for factory automation."
+  },
+  {
+    "id": "01286644",
+    "name": "WIRELESS SENSOR NETWORKS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "This course is an introduction to fundamental concepts of wireless networks of embedded systems and wireless sensor networks. Topics include: wireless communication and networking technologies, i.e. Bluetooth, ZigBee, LoRa, network architecture, wireless communication protocols, and software design and programming for the wireless networks."
+  },
+  {
+    "id": "01286645",
+    "name": "INTRODUCTION TO ROBOTICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course introduces fundamental concepts of robotics. The topics covered include forward and inverse kinematics, DH parameters, the Jacobian, trajectory planning, basics of robot control systems, including actuators and sensors for robots."
+  },
+  {
+    "id": "01286646",
+    "name": "EMBEDDED CONTROL SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "In this course, the students will learn how to apply control theory to embedded systems. The course will introduce basic control theory with practical insight into the tools for modeling and simulating dynamic physical systems, and the methods for designing the software for embedded microcontrollers to control them. This course covers the following topics: fundamentals of control systems, PID control, plant models, classical control system design, pole placement, optimal control, and discrete time systems and fixed point mathematics. The students will be guided to develop corresponding software to control physical systems using the studied control algorithms."
+  },
+  {
+    "id": "01286660",
+    "name": "SELECTED TOPICS IN ARTIFICIAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Selected topics of current interest related to Artificial Intelligence"
+  },
+  {
+    "id": "01286661",
+    "name": "AI PROGRAMMING",
+    "credits": "1 (0-3-2)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course covers sessions on hand-on programming of AI systems. It includes Prolog programming and Python AI programming. For Prolog programming, the students learn Prolog syntax, Prolog interpreter, backtracking mechanism, how to debug Prolog programs, lists, recursion, cuts, and meta-programming. For Python AI programming, the students learn how to use popular several Python libraries for developing machine learning, data science, and data analytic applications."
+  },
+  {
+    "id": "01286662",
+    "name": "MACHINE LEARNING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006719 Probability and Statistics 1 OR 01006730 Probability Models and Data Analysis",
+    "description": "This course provides a broad introduction to machine and statistical learning. Topics covered include supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning); learning theory (bias/variance trade-offs; VC theory; large margins); reinforcement learning and adaptive control."
+  },
+  {
+    "id": "01286663",
+    "name": "DATA SCIENCE AND DATA ANALYTICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006719 Probability and Statistics 1 OR 01006730 Probability Models and Data Analysis",
+    "description": "This course introduces an overview of data science and their applications on software applications. The topics to be studied include the extraction of information from data, an overview of important data analysis techniques, data visualization, software tools for data science, and case studies of real-world problem-solving using data science."
+  },
+  {
+    "id": "01286664",
+    "name": "KNOWLEDGE REPRESENTATION AND REASONING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286342 Artificial Intelligence",
+    "description": "This course provides a comprehensive study of contemporary techniques and languages for knowledge representation and reasoning about knowledge. The course covers semantic modeling, e.g. semantic networks, conceptual graphs, ontology representation in Semantic Web, frame representation, rule-based representation, and logical representation, e.g. first- order logic, description logic, logic of actions and beliefs. For the reasoning about knowledge, the topics include abduction, deduction, induction, as well as reasoning about time, state, events, actions, and beliefs."
+  },
+  {
+    "id": "01286665",
+    "name": "DEEP LEARNING",
+    "credits": "0 (0-3-0)",
+    "prerequisite": "01286662 Machine Learning",
+    "description": "Types of learning; Linear classification with perceptron; Basic optimization with gradient descent; Fully connected neural network; Loss function; Back-propagation algorithm; Convolutional neural network."
+  },
+  {
+    "id": "01286666",
+    "name": "APPLIED ARTIFICIAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286342 Artificial Intelligence",
+    "description": "This course covers applications of logic in artificial intelligence, communication of multi-agents, intelligent search, advanced planning, advanced learning, natural language understanding, applications of artificial neural networks and genetic algorithms, and recent techniques in artificial intelligence. The course also studies applications of artificial intelligence in related computing areas."
+  },
+  {
+    "id": "01286667",
+    "name": "COMPUTATIONAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "Study of concepts, algorithms, and theories related to computational intelligence. The subject covers the following topics: neural networks, fuzzy logic, evolutionary computation, swarm intelligence, other natured-inspired algorithms, and applications of computational intelligence."
+  },
+  {
+    "id": "01286668",
+    "name": "DATA MINING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course provides an introduction to data mining. Students will learn the basics of data mining algorithms with an emphasis on their real-world applications. Students will learn user data types, data mining methodology, measuring the effectiveness of data mining, overview of data mining techniques, market basket analysis, memory-based reasoning, automatic cluster detection, link analysis, and interesting algorithms for data mining and data warehouse."
+  },
+  {
+    "id": "01286669",
+    "name": "INFORMATION RETRIEVAL",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course studies fundamental theory and techniques of information retrieval, focusing on text-based information and the Web. The main components of the course include models for information retrieval (including Boolean models, vector space models, and probabilistic models), retrieval evaluation, query languages and processing, indexing and searching, classification, clustering, link analysis, and web crawling and searching."
+  },
+  {
+    "id": "01286670",
+    "name": "INTELLIGENT AGENTS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286342 Artificial Intelligence",
+    "description": "Intelligent agents are software programs that can sense their environments, choose rational actions based on their percepts, and execute these actions. Often, agents interact with other agents, either by cooperating or competing with each other; such environments are called multi-agent systems. The course covers the underlying theory of agents, the common agent architectures, methods of communication and cooperation, and the potential applications of agents. Specific topics include fundamental techniques for developing intelligent agents and multi-agent systems, including cognitive, logic-based, and belief-desire-intention architectures, inter-agent communication languages and protocols, distributed problem solving, planning, and constraint satisfaction methods, distributed models of rational behaviors, and learning and adaptation in multi-agent systems."
+  },
+  {
+    "id": "01286671",
+    "name": "SEMANTIC WEB",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286342 Artificial Intelligence",
+    "description": "The Semantic Web has been envisioned by many to be a next generation of the current web. The Semantic Web makes it easy for anyone to publish, and access to, distributed semantic information on the Internet; this information allows computers and software agents on the Internet to communicate with each other and work together automatically. The course covers mark-up languages of web contents, that is, HTML and XML. For XML, it covers XML DTDs, XML Schemas, XPaths, XLinks and XPointers, including how to process an XML document with DOM. For the Semantic Web mark-up languages, the course covers RDF, RDFS, OWL, and rule mark-up languages. Finally, the course also includes different approaches of knowledge representation of Semantic Web contents, such as First-order Logic, Description Logic, and Conceptual Graphs, as well as reasoning and communication of Semantic Web information by intelligent agents."
+  },
+  {
+    "id": "01286672",
+    "name": "NATURAL LANGUAGE PROCESSING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course introduces the field of Natural Language Processing. It includes relevant background material in linguistics, mathematics, probabilities, and computer science. Some of the topics covered in the class are text similarity, part of speech tagging, parsing, semantics, question answering, sentiment analysis, and text summarization."
+  },
+  {
+    "id": "01286673",
+    "name": "BUSINESS INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course provides an introduction to the concepts of business intelligence (BI) as components and functionality of information systems. It explores how business problems can be solved effectively by using operational data to create data warehouses, and then applying data mining tools and analytics to gain new insights into organizational operations. Detailed discussion of the analysis, design and implementation of systems for BI, including: the differences between types of reporting and analytics, enterprise data warehousing, data management systems, decision support systems, knowledge management systems, big data and data/text mining. Case studies are used to explore the use of application software, web tools, success and limitations of BI as well as technical and social issues."
+  },
+  {
+    "id": "01286674",
+    "name": "IMAGE PROCESSING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course introduces fundamental concepts of digital image processing. It covers the following topics: digital image, representation, digitization, histogram, point-processing, convolution, filtering, edge detection, frequency domains, image enhancement, image segmentation, and applications of digital image processing."
+  },
+  {
+    "id": "01286690",
+    "name": "SOFTWARE ENTREPRENEURSHIP",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "In this course, the students will work in teams to study and practice skills in software entrepreneurship, through setting up and running virtual software development companies. The students will study how to find prospective commercial opportunities for a technological idea, how to acquire resources including talent and capital, and how to market the idea, as well as manage the growth. The emphasis will be on how small software companies are created and managed, the financial and legal frameworks within which such companies operate, and the management of the companies for successful operations. Topics include market studies, feasibility studies, cost analysis, intellectual property, contract negotiation, resource management, business planning, finance, and marketing. The final outcome of each group of students will be a business plan for commercializing their software products."
+  },
+  {
+    "id": "01286701",
+    "name": "PROFESSIONAL ENGINEERING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Introduction to engineering design through a discipline-specific team project. Students will learn and apply professional engineering concepts and issues including: sustainability, safety, estimation, materials selection, decision making, project management, information literacy, communication (graphics, written, oral), ethics, and prototyping (building). The course provides an introduction to engineering as a profession."
+  },
+  {
+    "id": "01286702",
+    "name": "COMPUTER SYSTEMS PRINCIPLES AND PROGRAMMING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Systems Programming in C. Operating Systems Principles: memory management, basics of machine organization, file systems, processes & threads, interprocess communication. Computer Networks Principles: topologies & models of computer networks, protocols, network programming, network applications."
+  },
+  {
+    "id": "01286703",
+    "name": "HUMAN-COMPUTER INTERACTION",
+    "credits": "4 (4-0-8)",
+    "prerequisite": "None",
+    "description": "Models of action, perception, cognition and interaction in human-machine systems. Methods of interaction analysis and interaction representation. Human-machine system evaluation. Practical implementation. Introduction to user and use-centred design principles. Broader topics may include: societal considerations, groupware, multimedia, media perspectives."
+  },
+  {
+    "id": "01286704",
+    "name": "THE SOFTWARE PROCESS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Software lifecycle as an industrial process, definable, manageable & repeatable. Requirements engineering, object-oriented analysis. Software requirements specification, prototyping, verification & validation, configuration management, maintenance. Software quality, process standards, process improvement. Software engineering tools."
+  },
+  {
+    "id": "01286705",
+    "name": "SOFTWARE ENGINEERING STUDIO: DESIGN, IMPLEMENT, AND TEST",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Students work in teams on a studio-based software development project to gain an understanding of the processes, techniques and tools used to manage and deliver large, complex software systems. The course covers software engineering, design, project management and team work processes. Students will learn techniques and tools used to manage complex software projects. These techniques and tools will be applied to software design, verification and validation, configuration management and documentation."
+  },
+  {
+    "id": "01286706",
+    "name": "FUNCTIONAL AND LOGIC PROGRAMMING",
+    "credits": "4 (4-0-8)",
+    "prerequisite": "None",
+    "description": "The course aims to equip the student with the tools and problem-solving skills (which are typically not available in mainstream programming environments) to achieve software engineering outcomes using both Functional and Logic Programming. In addition to this, a key outcome is gaining the skills to make informed decisions on how to apply these new skills where appropriate. The course ultimately aims to diversify a student's problem-solving skills in the application of software engineering, by exploring Functional and Logic Programming, and to inform decision-making and application of skills, given a variety of software engineering approaches."
+  },
+  {
+    "id": "01286707",
+    "name": "DESIGN COMPUTING STUDIO 3 - PROPOSAL",
+    "credits": "4 (0-8-4)",
+    "prerequisite": "None",
+    "description": "A studio-based course in which interdisciplinary teams of students develop a proposal for a significant software-based system. The course aims to consolidate and expand on students previous experience with designing information systems, user interfaces, and computer software and systems. Subjects such as requirements elicitation, business cases, design specifications, and identifying and dealing with professional and ethical issues associated with software projects and products are covered during the course."
+  },
+  {
+    "id": "01286708",
+    "name": "DESIGN COMPUTING STUDIO 3 - BUILD",
+    "credits": "4 (0-8-4)",
+    "prerequisite": "01286707 DESIGN COMPUTING STUDIO 3 - PROPOSAL",
+    "description": "A studio-based course in which interdisciplinary teams of students build a significant software- based system according to client requirements and project deadlines. The course aims to consolidate and expand on students previous experience with implementing information systems, user interfaces, and computer software and systems. Subjects such as project planning, risk management and software quality assurance are covered during the course."
+  },
+  {
+    "id": "01286709",
+    "name": "RESEARCH AND DEVELOPMENT METHODS AND PRACTICE 1",
+    "credits": "4 (2-4-6)",
+    "prerequisite": "None",
+    "description": "The purpose of this course is to develop the student's research and problem solving skills. The course involves the specification, development and evaluation of an individual research project on a specific topic or problem. The student is expected to systematically plan and manage the project, and to clearly present the work and its contribution in context of the current literature and prior art."
+  },
+  {
+    "id": "01286710",
+    "name": "RESEARCH AND DEVELOPMENT METHODS AND PRACTICE 2",
+    "credits": "4 (2-4-6)",
+    "prerequisite": "01286709 RESEARCH AND DEVELOPMENT METHODS AND PRACTICE 1",
+    "description": "This course is a continuation of 01286709 RESEARCH AND DEVELOPMENT METHODS AND PRACTICE 1. The purpose of this course is to develop the student's research and problem solving skills. The course involves the specification, development and evaluation of an individual research project on a specific topic or problem. The student is expected to systematically plan and manage the project, and to clearly present the work and its contribution in context of the current literature and prior art."
+  },
+  {
+    "id": "01286711",
+    "name": "SOFTWARE ARCHITECTURE",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Software systems are often composed of a heterogeneous network of inter-related systems. In this course you will build upon the knowledge and skills you have developed so far to learn how to design complex systems. This will include how these systems communicate and coordinate their responsibilities. You will learn design techniques to manage the complexity of large systems. You will learn how to assess and manage software risks (e.g.security, scalability, availability, resilience, robustness). You will apply these techniques to build a system composed of heterogeneous computing devices (e.g. mobile devices, servers, cloud- hosted services). You will learn how to apply systems thinking to design large-scale cyber- physical systems."
+  },
+  {
+    "id": "01286721",
+    "name": "INFORMATION SECURITY",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Access control, Authentication, Security Models, Secret-key and Public-key Cryptography, Network Security and Application-layer Security."
+  },
+  {
+    "id": "01286722",
+    "name": "VISUALIZATION, COMPUTER GRAPHICS AND DATA ANALYSIS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Scientific visualisation is the use of images to provide insight into phenomena, and is a key tool for the analysis and understanding of biological, physical and engineering processes. It is becoming ever more important as the size of data sets continue to grow due to increasing power of computers and measurement devices. This course provides an introduction to computer graphics, data analysis and visualisation as tools to understand and interpret real world data and output from large-scale computational models."
+  },
+  {
+    "id": "01286723",
+    "name": "EMBEDDED SYSTEMS DESIGN AND INTERFACING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Microcontroller system hardware and software. C programming for embedded microcontroller and peripheral devices. Principles and practice of using Embedded RTOS (Real Time Operating System) and peripheral devices such as sensors and actuators to build a small embedded system. Peripheral interfacing methods and standards. Analog-digital conversion methods and interfacing. Basics of digital communication signals, modulation schemes and error correction methods. Data compression, formats for audio, image and video coding."
+  },
+  {
+    "id": "01286724",
+    "name": "REASONING ABOUT PROGRAMS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Software is written with the intention that it will carry out a desired task. To write such software requires algorithmic problem solving skills; and to do so correctly requires us to make precise the task at hand, and to be able to reason that an implementation satisfies the task's precise requirements. This advanced course on programming introduces structured, formal methods for: specifying the desired behaviour of programs, showing that programs are correct with respect to their specifications, and deriving algorithms from specifications. These techniques are designed to assist developers to solve programming problems, and to produce high quality software."
+  },
+  {
+    "id": "01286725",
+    "name": "COMPUTER NETWORKS I",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "OSI & Internet reference models. Communication protocols for Local, Metropolitan & Wide Area Networks. BISDN networks. The Internet protocol suite. Mobile Networks. Quality of service in communication protocols. Network security. Trends in communication networks."
+  },
+  {
+    "id": "01286726",
+    "name": "ADVANCED DATABASE SYSTEMS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Distributed database design, query and transaction processing, data integration, data warehousing, data cleansing, management of spatial data, and data from large scale distributed devices."
+  },
+  {
+    "id": "01286727",
+    "name": "WEB INFORMATION SYSTEMS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "This course is to introduce aspects of Web-based information systems (WIS). It has a focus on the latest technologies for WIS development. It covers concepts & fundamentals of WIS (PHP, JavaScript, Database, client-server database applications on the internet), recent advances of server-side technologies (AJAX, Web Security, Web Search, Web Service), and current trends in WIS."
+  },
+  {
+    "id": "01286728",
+    "name": "CLOUD COMPUTING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "As a major computing infrastructure, Cloud Computing provides the modern on-demand services for management and usage of large and shared computing resources including storage, computations and communications. This course will cover in-depth knowledge for Cloud Computing and the practical experience in designing and implementing large-scale and composite business web applications on Cloud Computing platform. This course covers a wide range of cloud computing-related X-as-a-Service technologies, including Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), Infrastructure-as-a-Service (IaaS), Data-as-a-Service (DaaS), and related technologies such as Cloud Computing Ecosystem. For delivering scalable computing services in a pay-as-you-go model via the Internet, Cloud Computing approaches are used to deal with effective and efficient development and deployment problems of web services and information systems with particular focus on \"big data\" challenges that arise across a variety of domains."
+  },
+  {
+    "id": "01286729",
+    "name": "OPERATING SYSTEMS ARCHITECTURE",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Implementation and design techniques for operating systems. Core material includes advanced kernel-level and device driver programming techniques, how operating systems principles are realised in practice, principles and practice of operating system support for distributed and real-time computing, case studies and different approaches to operating system design and implementation, including different models of software ownership."
+  },
+  {
+    "id": "01286730",
+    "name": "HIGH-PERFORMANCE COMPUTING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "This course teaches the methods and technology of high-performance computing and its usage in solving scientific problems. Major topics include: grid and cluster computing, parallel computing, agent-based modelling and simulation. The course is interdisciplinary in nature, incorporating a number of case studies in biology, physics, chemistry, and engineering."
+  },
+  {
+    "id": "01286731",
+    "name": "SOCIAL & MOBILE COMPUTING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Topics in social computing - groupware, social software, computer supported cooperative work. Considerations in the design of mobile and ubiquitous computing systems: mobilit research; distributed user research; multi-player environments; tangible; physical and wearable computing."
+  },
+  {
+    "id": "01286732",
+    "name": "ARTIFICIAL INTELLIGENCE",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Methods and techniques within the field of artificial intelligence, including topics on search, reasoning and planning with certainty, decision-making under uncertainty, learning to act and reasoning about other agents. Specific emphasis on the practical utility of algorithms and their implementation in software."
+  },
+  {
+    "id": "01286733",
+    "name": "PATTERN RECOGNITION AND ANALYSIS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Understanding patterns in our environment is an important cognitive ability. The development of recognition and automated algorithms that are able to process copious amounts data without (or with limited) human intervention is critical in replicating this ability in machines. This course will cover the fundamentals of creating computational algorithms that are able to recognise and/or analyse patterns within data of various forms. Topics and algorithms will include fractal geometry, classification methods such as random forests, recognition approaches using deep learning and models of the human vision system. Python and stat-of- the-art packages like Tensorflow will be used as a mechanism for students to study patterns in nature, noise and data from various real-worlds sources, such images, social media and biomedical signals."
+  },
+  {
+    "id": "01286734",
+    "name": "DIGITAL HEALTH SOFTWARE PROJECT",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "This course will help you learn the basic fundamentals of digital health technology through hands-on experience, and through exposure to the real-world use of data and informatics in the health industry. The course includes a MOOC component that provides a broad introduction to healthcare informatics. There will also be a number of guest lecturers from industry talking about the current digital health landscape. A major part of the course is composed of a group software development project building a FHIR app for use in a clinical (or clinical education) setting, with real-world clients. FHIR (Fast Healthcare Interoperability Resources) is the new standard for sharing health data that is revolutionising how clinicians and patients are interacting with digital technology and has been adopted by major global IT companies (e.g., Apple, Google, Microsoft, etc.) and digital health vendors (e.g., Cerner, EPIC, etc.). Be at the forefront of healthcare application development by learning about and developing new FHIR and SMART-on-FHIR applications."
+  },
+  {
+    "id": "01286735",
+    "name": "DIGITAL",
+    "credits": "SYSTEM DESIGN",
+    "prerequisite": "None",
+    "description": "The objective of this course is to give the students the theoretical basis & practical skills in modern design of medium size digital systems in various technologies, with a focus on Field Programmable Gate Arrays (FPGAs). The design methodology, systematically introduced & used in the course, is based on simulation & synthesis with hardware description language (VHDL) tools. Topics covered in this course include: conceptual design step from requirements & specification to simulation & synthesis model in VHDL, design of complex controllers with Finite State Machines, design of sequential blocks with Controller-Datapath methodology, issues in design for testability, electrical & timing issues in logic and system design, overview of implementation technologies with emphasis on advances in FPGAs."
+  },
+  {
+    "id": "01286736",
+    "name": "DATA MINING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Techniques used for data cleaning, finding patterns in structured, text and web data; with application to areas such as customer relationship management, fraud detection & homeland security."
+  },
+  {
+    "id": "01286737",
+    "name": "ADVANCED TECHNIQUES FOR HIGH DIMENSIONAL DATA",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Selected advanced topics from spatial & multimedia databases: multidimensional data management concepts, theories and technologies, focusing on data access methods and similarity query processing for spatial, multimedia and Web-based databases, with particular emphasis on video indexing and search."
+  },
+  {
+    "id": "01286738",
+    "name": "COMPILERS AND INTERPRETERS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Compiler modules; programming language specifications; lexical analysis, parsing - recursive descent & table driven; static semantics - symbol tables & type checking; error handling; introduction to code generation & optimisation; compiler generators; interpreters."
+  },
+  {
+    "id": "01286739",
+    "name": "ADVANCED ALGORITHMS AND DATA STRUCTURES",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Analysis of algorithms. Solution of summation & recurrence equations. Algorithm paradigms: divide-&-conquer, greedy algorithms, dynamic programming, backtracking, branch-&-bound. Advanced graph algorithms. Amortised analysis. Self-adjusting data structures. Complexity classes, NP-completeness. Approximation algorithms. Randomized algorithms."
+  },
+  {
+    "id": "01286740",
+    "name": "ADVANCED TOPICS IN SECURITY",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Cryptographic algorithms, advanced security protocols, Blockchain technology, current security research topics."
+  },
+  {
+    "id": "01286741",
+    "name": "PRINCIPLES OF PROGRAM ANALYSIS",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Program analysis is used for: code optimisation in compilers, finding programs errors and potential security flaws. This course examines techniques for performing static analysis of computer code and the implementation of software tools for performing such analyses. Topics include: data flow analysis; constraint- based analysis; abstract interpretation; and type and effect systems."
+  },
+  {
+    "id": "01286742",
+    "name": "MACHINE LEARNING",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Machine learning is a branch of artificial intelligence concerned with the development & application of adaptive algorithms that use example data or previous experience to solve a given problem. Topics include: learning problems (e.g regression, classification, unsupervised, reinforcement) & theory, neural networks, statistical & probabilistic models, clustering, ensembles, implementation issues, applications (e.g. bioinformatics, cognitive science, forecasting, robotics, signal & image processing)."
+  },
+  {
+    "id": "01286743",
+    "name": "COMPUTER NETWORKS II",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Software Defined Networking, Network Programming, Peer-to-peer Networks, Network Management, Queuing Theory, Wireless Networks."
+  },
+  {
+    "id": "01286744",
+    "name": "ADVANCED HUMAN-COMPUTER INTERACTION",
+    "credits": "4 (3-2-7)",
+    "prerequisite": "None",
+    "description": "Design Languages & methods applied to user interface design. Hands-on studio-based design experience. Task analysis, advanced interfaces, specifying & designing functionality, design principles, case studies, advanced topics including social issues, groupware, adaptive interfaces, co-design of hardware & computer interfaces."
+  },
+  {
+    "id": "01286801",
+    "name": "ALGORITHMICS I",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course intends to develop the student's skills in the design and analysis of algorithms; to study algorithms for a range of important standard problems; to introduce the student to the theory of NP-completeness together with its practical implications; and to make the student aware of fundamental concepts of computability."
+  },
+  {
+    "id": "01286802",
+    "name": "INTERACTIVE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course aims at offering students the opportunity to become familiar with one of the most important interaction paradigms; enabling students to become skilled in the use of techniques and tools for modelling, implementing and evaluating interactive systems; and enabling students to apply the theories, techniques and tools presented in the course via challenging exercises which combine design, implementation and evaluation."
+  },
+  {
+    "id": "01286803",
+    "name": "DATA FUNDAMENTALS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "Computational approaches to working with numerical data on a large scale; computation on arrays of continuous variables underpinning machine learning, information retrieval, data analytics, computer vision and signal processing; vectorised operations on numerical arrays; fundamental stochastic and probabilistic methods and scientific visualization."
+  },
+  {
+    "id": "01286804",
+    "name": "SYSTEMS PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286120 Elementary Systems Programming",
+    "description": "This course aims to introduce students to low-level systems programming. It focusses on programming in an unmanaged environment, where data layout matters, and where performance is critical. This might include operating systems kernels, device drivers, low-level networking code, or other areas where the software-machine interface becomes critical. The course will use a low-level systems programming language, for example C, to introduce these concepts. Students will be expected to learn the basics of this language in a self-study manner prior to entry, however a review of the major concepts will be provided at the start of the course."
+  },
+  {
+    "id": "01286805",
+    "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+    "credits": "3 (2-2-5)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course intends to introduce students to modern software development methods and techniques for building and maintaining large systems, prepare students to apply these methods and techniques presented to them in the context of an extended group-based software development exercise, make the students aware of the professional, social and ethical dimensions of software development, and instill in the students a professional attitude towards software development."
+  },
+  {
+    "id": "01286806",
+    "name": "TEAM PROJECT",
+    "credits": "9 (0-18-9)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course gives students the experience of working on a substantial team-based software project. The course provides the opportunity to apply the principles, practices and tools learned during the associated Professional Software Development course."
+  },
+  {
+    "id": "01286807",
+    "name": "SOFTWARE ENGINEERING SUMMER PLACEMENT",
+    "credits": "3 (0-45-0)",
+    "prerequisite": "None",
+    "description": "This course demands the student to undertake a summer placement of at least 10 weeks to gain relevant practical experience. The objectives are to give students the experience of a real software development environment, to embed the software engineering theory, principles and tools studied through practical experience, and to develop a student's ability to evaluate and enhance their personal software process."
+  },
+  {
+    "id": "01286808",
+    "name": "INDIVIDUAL PROJECT",
+    "credits": "12 (0-24-12)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course requires the students to undertake a substantial piece of individual work, involving planning, specification, design, execution, evaluation, presentation and report-writing."
+  },
+  {
+    "id": "01286821",
+    "name": "ALGORITHMICS II",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286801 Algorithmics I",
+    "description": "The aims of the course are to present a broad range of algorithm design methods, with examples chosen to reflect practical applications, to enable students to make educated choices between strategies for algorithmic problem-solving, and to convey the significance of computational complexity, and to present a range of methods for dealing with it in practice."
+  },
+  {
+    "id": "01286822",
+    "name": "ARTIFICIAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "The aim of this course is to provide an overview of intelligent agent design, where agents perceive their environment and act rationally to fulfil their goals. Students will gain practical experience in labs, programming various aspects of intelligent systems."
+  },
+  {
+    "id": "01286823",
+    "name": "COMPUTER ARCHITECTURE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286112 Digital System Fundamentals",
+    "description": "The course explains in depth how a computer works, by developing a digital circuit that implements an instruction set architecture. The memory system, including cache and virtual memory, and support by the architecture for the operating system, are also covered."
+  },
+  {
+    "id": "01286824",
+    "name": "OPERATING SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course intends to introduce the students to the styles of coding required with an OS, to give a thorough presentation of the contents of a traditional OS, including the key abstractions, to show the range of algorithms and techniques available for specific OS problems, and the implications of selection specific algorithms for application behavior, to develop an integrated understanding of what the computer is doing, from a non-naive view of hardware to the behaviour of multi-threaded application processes, and present the alternatives and clarify the trade-offs that drive OS and hardware design."
+  },
+  {
+    "id": "01286825",
+    "name": "NETWORKED SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course intends to introduce the fundamental concepts and theory of communications, provide a solid understanding of the technologies that support modern networked computer systems, introduce low-level network programming concepts, and give students practice with systems programming in C, and provide our students with the ability to evaluate and advise industry on the use and deployment of networked systems."
+  },
+  {
+    "id": "01286826",
+    "name": "DATABASE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course intends to develop the student’s software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite and the student’s understanding of how conventional programming languages interact with databases, teaches the student the fundamental concepts, theories and methods of the relational data model, and introduces Information Retrieval concepts and techniques."
+  },
+  {
+    "id": "01286827",
+    "name": "PROGRAMMING LANGUAGES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286222 Data Structures and Algorithms",
+    "description": "This course intends to provide a conceptual framework that will enable students to understand familiar programming languages more deeply and learn new languages more efficiently, show how the syntax of a programming language can be formalized, explain the functions of compilers and interpreters, how they interact, and how they work, and show how to implement a compiler using compiler-generation tools."
+  },
+  {
+    "id": "01286828",
+    "name": "FUNCTIONAL PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Functional programming is introduced using Haskell. The standard programming techniques, as well as some advanced topics, are covered and applied to realistic programming problems."
+  },
+  {
+    "id": "01286829",
+    "name": "HUMAN-COMPUTER INTERACTION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286802 Interactive Systems",
+    "description": "The aim of this course is to introduce students to advanced topics in Human-Computer Interaction. It focuses on multimodal interaction, novel forms in interaction, users with different abilities and social media."
+  },
+  {
+    "id": "01286830",
+    "name": "MODELLING REACTIVE SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Modelling of concurrent, communicating systems using non-probabilistic and probabilistic techniques, and verification using the SPIN and PRISM model checkers."
+  },
+  {
+    "id": "01286831",
+    "name": "MACHINE LEARNING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course aims at presenting students with an introduction to the general theory of learning from data and to a number of popular Machine Learning methods."
+  },
+  {
+    "id": "01286832",
+    "name": "CYBER SECURITY FUNDAMENTALS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286223 Computer Networks",
+    "description": "This course provides an introduction to the foundational aspects of computer security, such as algorithms and protocols. It also covers ways in which these systems can be attacked and techniques for thwarting these attacks."
+  },
+  {
+    "id": "01286833",
+    "name": "BIG DATA: SYSTEMS, PROGRAMMING, AND MANAGEMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286241 Database Systems",
+    "description": "Big Data is nowadays manifested in a very large number of environments and application fields pertaining to our education, entertainment, health, public governance, enterprising, etc. The course will endow students with the understanding of the new challenges big data introduces and the currently available solutions. These include (i) challenges pertaining to the modelling, accessing, and storing of big data, (ii) an understanding of the fundamentals of systems designed to store and access big data, and (iii) programming paradigms for efficient scalable access to big data."
+  },
+  {
+    "id": "01286834",
+    "name": "COMPUTER VISION METHODS AND APPLICATIONS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course is intended to equip students with the necessary theoretical and practical understanding of image processing and computer vision techniques to enable them to meet the challenges of building advanced image-based applications. Examples of potential vision- based applications include: image understanding in mobile devices (cameras, phones, tablet computers etc.), robot vision systems, autonomous vehicle guidance and road monitoring, driver attention monitoring, image database query systems, creative media production tools, interactive gaming, augmented reality and visual biometrics, forensic image analysis, security and surveillance, and medical imaging. The course will focus on the application of recent advances in Computer Vision techniques that underpin a wide variety of systems and products based on methods such as: face detection, object recognition, tracking, segmentation and 3D imaging."
+  },
+  {
+    "id": "01286835",
+    "name": "MOBILE HUMAN-COMPUTER INTERACTION",
+    "credits": "3 (3-0-6",
+    "prerequisite": "01286802 Interactive Systems",
+    "description": "This course gives students an overview of the fields of mobile HCI and ubiquitous computing, and an understanding of the practical challenges associated with embedded software development for mobile interactive systems, and associated services."
+  },
+  {
+    "id": "01286836",
+    "name": "INFORMATION RETRIEVAL",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "The aim of this course is to present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web and the practical engineering issues raised by the design and implementation of an information retrieval system."
+  },
+  {
+    "id": "01286837",
+    "name": "ADVANCED SOFTWARE ENGINEERING PRACTICES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286805 Professional Software Development",
+    "description": "This course gives students the opportunity to learn and practice advanced principles, methods and tools in Software Engineering. The course is intended for students who have experience of software development through a summer internship or similar. The course covers technical and management skills that are needed for mentoring and leading teams of software developers. The course is delivered in collaboration with an established software industry partner."
+  },
+  {
+    "id": "01286838",
+    "name": "THEORY OF COMPUTATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course covers the theory of sequential and concurrent computation. The main topics include the lambda calculus as a foundation for functional computation and the pi calculus as a foundation for concurrent computation; the theory of operational semantics and type systems for both these calculi."
+  },
+  {
+    "id": "01286839",
+    "name": "TEXT AS DATA - AN INTRODUCTION TO DOCUMENT ANALYTICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "Classical models for textual representations such as the vector space, network graphs, language modelling; applications of text analytics in practice; common techniques for regression, classification, clustering and topic modelling and selection of the appropriate machine learning task for a potential document processing application; representing data as features to serve as input to machine learning models; assessing machine learning model quality in terms of relevant error metrics for document processing tasks, in an appropriate experimental design; deploying unsupervised and machine learned approaches for document/text analytics tasks."
+  },
+  {
+    "id": "01286840",
+    "name": "RECOMMENDER SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course introduces the concepts, applications, algorithms, programming, and design of recommender systems -- software systems that recommend products or information, often based on extensive personalization. Recommender systems are widely used by many users on a day-to-day basis: while recommender systems have been pioneered by e-commerce sites such as Amazon and Netflix, they are widely used ranging in areas from marketing (e.g. personalized product recommendations with your supermarket loyalty card), education, social media, and financial services. This course discusses various techniques for making recommendations, including non-personalized, content-based, and collaborative recommendation techniques, and their evaluation."
+  },
+  {
+    "id": "01286841",
+    "name": "ROBOTICS FOUNDATIONS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Computational and mathematical concepts, information processing and software frameworks of robotic systems; sensory and actuation systems required by a robot to sense, understand and interact with its environment; prototyping and implementing autonomous robotic systems by making use of a sophisticated robotic middleware, its associated data transmission channels, software robotic stacks and the underlying mathematics required to operate a robot."
+  },
+  {
+    "id": "01286842",
+    "name": "WEB SCIENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Web Science is the study of the World Wide Web (WWW), its components, facets and characteristics and the impact it has on both society and technology. The World Wide Web changed the way in which we create information, communicate and interact. New models of social networks (LinkedIn, Facebook, etc.) create opportunities, which were not available before. Exploiting such data and networks for the benefit of individuals and organizations has become a key in our knowledge society."
+  },
+  {
+    "id": "01286843",
+    "name": "COMPUTATIONAL SOCIAL INTELLIGENCE",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Core methodologies behind automatic approaches aimed at making sense of social and psychological aspects of human behaviour; design and organisation the observation of human behaviour in view of the application of automatic approaches; application of psychometric instruments for the quantitative analysis of social and psychological phenomena; application of basic statistical techniques to human behaviour analysis and understanding."
+  },
+  {
+    "id": "01286844",
+    "name": "DISTRIBUTED AND PARALLEL TECHNOLOGIES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286804 Systems Programming",
+    "description": "Computing science challenges posed by many core architectures, the technologies available to address them, and the challenges of building reliable and scalable systems; designing and implementing simple parallel applications on shared and distributed memory architectures; evaluating the scaling properties of simple parallel applications; designing and implementing simple reliable distributed applications, selecting appropriately from various families of algorithm used in distributed systems, based on specific system requirements; evaluating the reliability properties of simple distributed applications."
+  },
+  {
+    "id": "01286845",
+    "name": "START-UP GROWTH ENGINEERING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Techniques used to create viral user growth in tech companies and how to apply them; growth strategy for a start-up, designed to drive exponential growth; key metrics involved in driving start-up exponential growth, and how to optimise those metrics; qualitatively and quantitatively prediction of the growth performance of a product or start-up based on current growth metrics; analysis of why some start-ups grow into very large-scale organisations, while others with similar products fail; how growth teams are configured inside leading start-ups and the development models used by them."
+  },
+  {
+    "id": "01286846",
+    "name": "ADVANCED SYSTEMS PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286804 Systems Programming",
+    "description": "This course covers advanced topics systems programming, building on the material in Systems Programming (H) to explore new techniques for safer and more effective systems programming. It will focus on programming in an unmanaged environment, where data layout matters, and where performance is critical. This might include operating systems kernels, device drivers, low-level networking code, or other areas where the software-machine interface becomes critical."
+  },
+  {
+    "id": "01286847",
+    "name": "ADVANCED NETWORKED SYSTEMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286825 Networked Systems",
+    "description": "The course aims to give students a deep understanding of the fundamental design, implementation, management, and evaluation principles that govern large-scale, high-speed networked systems. These include algorithmic and implementation techniques for high-speed networking in routers and end-nodes; systems performance measurement and modelling principles; network and system resource management, allocation, and engineering schemes; and research and technological advances that drive the development of a converged, global telecommunications medium of the future."
+  },
+  {
+    "id": "01286848",
+    "name": "SAFETY-CRITICAL SYSTEMS DEVELOPMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course encourages students to apply engineering techniques to support the development of safety-critical applications. It also encourages students to consider the particular methodological and professional issues that surround the development of safety-critical systems."
+  },
+  {
+    "id": "01286849",
+    "name": "HUMAN-CENTRED SYSTEMS DESIGN AND EVALUATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Key concepts, principles, and issues in interaction design; Representing and reasoning about interaction designs; Design, implementation and evaluation of interactive systems using appropriate technology; Use of formal, experimental and analytic techniques for evaluating interactions."
+  },
+  {
+    "id": "01286850",
+    "name": "COACHING SOFTWARE TEAMS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course gives students the opportunity to learn and practice principles, practices and methods used in coaching Software Engineering teams. The course is intended for students who have experience of software development through a summer internship or similar. The course covers interpersonal and management skills that are needed for mentoring and leading teams of software developers. The course focuses on whole-team coaching and how to introduce and embed software engineering practices in existing teams. The course is delivered in collaboration with a software industry partner."
+  },
+  {
+    "id": "01286851",
+    "name": "SOFTWARE PRODUCT RELEASE ENGINEERING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course gives students the opportunity to learn about and practice advanced principles, methods and tools in Software Engineering, and discuss the engineering decisions and trade- offs to be made when releasing software products. The course is intended for students who have experience of software development through a summer internship or similar. The course covers technical skills that are needed for designing, implementing, and maintaining releases of software products. The course also covers approaches and trade-offs needed for operating software releases at scale, current \"shift-left\" approaches, and operating models like DevOps, etc."
+  },
+  {
+    "id": "01286871",
+    "name": "ADVANCED PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course intends to teach the student to develop practical expertise in, and understanding of, concurrent programming in Java; to explore a variety of different concurrency control mechanisms; to substantially develop the knowledge of C gained during summer preparatory reading; to develop the students' experience and understanding of programming in a low-level language; to develop the ability to craft efficient and effective code in a pointer-rich language; to introduce concurrent programming in C using the PThreads library; to further develop the ability to select and re-use existing software components and libraries; and to enhance the students' skills in engineering software as interacting sub-systems, using interfaces and libraries to manage medium sized software development projects."
+  },
+  {
+    "id": "01286872",
+    "name": "INTERNET TECHNOLOGY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "The aim of this course is to provide students with a comprehensive overview of web application development. It will provide students with the skills to design and develop distributed web applications in a disciplined manner, using a range of tools and technologies. It will also strengthen their understanding of the context and rationale of distributed systems."
+  },
+  {
+    "id": "01286873",
+    "name": "RESEARCH METHODS AND TECHNIQUES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course covers the fundamental principles, of the scientific method. Students will learn the core skills of planning, designing, executing, evaluating and presenting research."
+  },
+  {
+    "id": "01286874",
+    "name": "HUMAN-CENTRED SECURITY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course aims to foster an appreciation of the vital role played by human factors in securing systems. The course explains and allows students to appreciate the multiple dimensions of the core principles of privacy, authentication, biometrics, risk communication, and the importance of security systems interface usability."
+  },
+  {
+    "id": "01286875",
+    "name": "DATABASE THEORY AND APPLICATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "The aim of this course is to introduce students to the concepts of information management by way of databases, including relational databases and other data management solutions. The course will provide students with the opportunity to develop skills which will assist them to manage information in the current digital age."
+  },
+  {
+    "id": "01286876",
+    "name": "ENTERPRISE CYBER SECURITY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course will focus on cyber security management within an organisation. It will ensure that students will know how to satisfy legislation related to securing personal and sensitive information and how to manage data correctly."
+  },
+  {
+    "id": "01286877",
+    "name": "FORENSICS",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "The course will enable the acquisition of analytical, scientific and communication skills to investigate cyber security incidents and present appropriate evidence to a non-technical audience. The course will expect students to comprehend aspects of forensic investigation and to present findings to non-technical stakeholders, e.g. court-room."
+  },
+  {
+    "id": "01286878",
+    "name": "DEEP LEARNING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01006716 Linear Algebra",
+    "description": "This course is the next step beyond our introductory machine learning course and teaches students about modern techniques for machine learning with high-dimensional image and sequence (time-series) data, and the underlying computational structures for such systems."
+  },
+  {
+    "id": "01286879",
+    "name": "SECURED SOFTWARE ENGINEERING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "01286131 Object-Oriented Programming",
+    "description": "Life cycle for developing secure software systems; applying lightweight refactoring methods to balance trade-offs between competing security, privacy and functionality quality measures in software; verification of the effectiveness of a secure software design solution; general approaches to privacy engineering and Privacy-by-Design paradigm in software; building a simple privacy justificatory framework for justifying the extent a given software aligns with data protection regulations (e.g GDPR, HIPPA, etc.); applications of secure software design principles on a range of application domains and case studies such as social networks, internet of things, mobile computing, ecommerce, service oriented architectures, multi-agent and autonomous systems."
+  },
+  {
+    "id": "01286880",
+    "name": "CONVERSATIONAL INTERFACES",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course provides a hands-on introduction to conversational interaction. Students will learn about the components involved in a conversational system, the techniques for implementing such a system, and how conversational systems are evaluated. Various forms of conversational interface will be covered, including chatbots, spoken dialogue systems, multimodal dialogue systems, and social robots. During the course, students will implement and evaluate a conversational interactive system."
+  },
+  {
+    "id": "01286881",
+    "name": "INFORMATIONAL VISUALISATION",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "This course is a general introduction to the field of Information Visualisation, covering visualisation and analytic techniques, and current research in the area."
+  },
+  {
+    "id": "01286882",
+    "name": "EMERGING TOPICS IN CYBER SECURITY",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "The course will enable students to immerse themselves in emerging and specialist topics in cyber security as well as offering the opportunity to develop critical thinking, reading and reviewing skills. The course will expect students to comprehend and lead discussions on specialist topics in cyber security as well as propose directions for future consideration."
+  },
+  {
+    "id": "01286883",
+    "name": "CONSTRAINT PROGRAMMING",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Fundamental concepts of constraint satisfaction and constraint programming. Implementation of constraint programming solutions to combinatorial problems using a state-of-the-art constraint programming toolkit. Commercial applications and research directions in constraint programming."
+  },
+  {
+    "id": "01286884",
+    "name": "CRYPTOGRAPHY AND SECURE DEVELOPMENT",
+    "credits": "3 (3-0-6)",
+    "prerequisite": "None",
+    "description": "Basic cryptographic algorithms and their effectiveness and vulnerabilities. Applications of standard cryptographic libraries to solve security problems. Principles and practice of the development of secure software systems."
+  },
+  {
+    "id": "01286971",
+    "name": "SOFTWARE ENGINEERING SUMMER PLACEMENT",
+    "credits": "0 (0-45-0)",
+    "prerequisite": "None",
+    "description": "This course demands the student to complete a full-time software industrial training in a software company for one summer semester. The objectives of software industrial training are for the students to gain work experience in the software industry and to understand the role of a software engineer. Each student is required to submit a report and present an official statement from the employer confirming their satisfaction in the software industrial training. Each student is required to formally enroll in this course in a special (summer) semester."
+  },
+  {
+    "id": "01286990",
+    "name": "TEAM SOFTWARE ENGINEERING PROJECT",
+    "credits": "3 (0-9-5)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This is a software engineering project course in which the students work as a team to develop software and hardware according to the requirements provided by users. The students will learn to integrate their knowledge and skills to perform each phase of software (or system) development, including requirement analysis, modeling, design, implementation, and testing, in order to obtain the required software (or system), whose topic is decided by the advisor(s) or by the students themselves. In addition, the students must adopt relevant software development models as well as apply relevant project management methodologies for conducting and managing their team project"
+  },
+  {
+    "id": "01286991",
+    "name": "SOFTWARE ENGINEERING PROJECT 1",
+    "credits": "3 (0-9-5)",
+    "prerequisite": "01286232 Software Engineering Principles",
+    "description": "This course is the first half of the senior project. In this course, the students will conduct their independent study, research and development of computer software and hardware using software engineering methodology according to their specialized track. The students will be guided by their project advisor(s) to conduct research and software (or system) development with the aim that they can develop their own original work with their creativity and problem solving skills. There is also an option for “industrial (software engineering) project” topics, to propose by project advisor(s) in order for the students and the advisor(s) to do a (software engineering) project according to their specialized track with companies, which the students can alternatively choose. The required project progress report must be submitted during the middle of the semester; and the entire project result of the semester will be presented to the examination committee at the end of the semester, where the project quality will be evaluated collectively for a team as well as be evaluated separately for each team member."
+  },
+  {
+    "id": "01286992",
+    "name": "SOFTWARE ENGINEERING PROJECT 2",
+    "credits": "3 (0-9-5)",
+    "prerequisite": "01286991 Software Engineering Project 1",
+    "description": "This course is the continuation of Software Engineering Project 1. In this course, the students will conduct their independent study, research and development of computer software and hardware using software engineering methodology. The students will be guided by their project advisor(s) to conduct research and software (or system) development with the aim that they can develop their own original work with their creativity and problem-solving skills. The required thesis must be submitted during the middle of the semester; and the entire project result of the two semesters will be presented to the examination committee at the end of the semester, where the project quality will be evaluated collectively for a team as well as be evaluated separately for each team member."
+  }
+]
