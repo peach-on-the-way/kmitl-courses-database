@@ -1140,5 +1140,12 @@
     "credits": "3 (0-9-5)",
     "prerequisite": "01286991",
     "description": "This course is the continuation of Software Engineering Project 1. In this course, the students will conduct their independent study, research and development of computer software and hardware using software engineering methodology. The students will be guided by their project advisor(s) to conduct research and software (or system) development with the aim that they can develop their own original work with their creativity and problem-solving skills. The required thesis must be submitted during the middle of the semester; and the entire project result of the two semesters will be presented to the examination committee at the end of the semester, where the project quality will be evaluated collectively for a team as well as be evaluated separately for each team member."
+  },
+  {
+    "id": "01006719",
+    "name": "<UNKNOWN>",
+    "credits": "",
+    "prerequisite": null,
+    "description": ""
   }
 ]
