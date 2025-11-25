@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
- # School of Engineering
- # Computer Engineering
- # Software Engineering (International program)
- # All class year
+# School of Engineering
+# Computer Engineering
+# Software Engineering (International program)
+# All class year
+
+# teach_day: 1 is Sunday
 
 curl 'https://regis.reg.kmitl.ac.th/api' \
   --get \
@@ -32,25 +34,25 @@ curl 'https://regis.reg.kmitl.ac.th/api' \
     credit: .credit_str,
     section: .section,
     class_type: .lect_or_prac
-      | gsub("ป"; "Practice")
-      | gsub("ท"; "Theory"),
-    teach_day_no: .teach_day,
-    teach_day: .teach_day
-      | gsub("1"; "Sunday")
-      | gsub("2"; "Monday")
-      | gsub("3"; "Tuesday")
-      | gsub("4"; "Wednesday")
-      | gsub("5"; "Thursday")
-      | gsub("6"; "Friday")
-      | gsub("7"; "Saturday"),
+      | gsub("ป"; "practice")
+      | gsub("ท"; "theory"),
+    teach_day: .teach_day,
     teach_time_start: .teach_time,
     teach_time_end: .teach_time2,
     extra_teach_time: .teachtime_str,
+    midterm_start_date_time: .midterm_start_date_time,
+    midterm_end_date_time: .midterm_end_date_time,
+    final_start_date_time: .final_start_date_time,
+    final_end_date_time: .final_end_date_time,
     classroom: .classroom,
+    classbuilding: .classbuilding,
+    building_no: .building_no,
     room_no: .room_no,
     teacher_list_th: .teacher_list_th,
     teacher_list_en: .teacher_list_en,
-    remark: .remark
+    remark: .remark,
+    rules_th: .rules_th,
+    rules_en: .rules_en,
   }
 ' \
 | jq -s
