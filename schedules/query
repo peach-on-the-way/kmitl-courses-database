@@ -7,6 +7,24 @@
 
 # teach_day: 1 is Sunday
 
+# Some keys might not known before or changed later.
+# These should be queried at runtime.
+# The list is not exhaustive.
+#
+# midterm_start_date_time
+# midterm_end_date_time
+# final_start_date_time
+# final_end_date_time
+# classroom
+# classbuilding
+# building_no
+# room_no
+# closed
+# limit
+# pre_count
+# queue_left
+# count
+
 curl 'https://regis.reg.kmitl.ac.th/api' \
   --get \
   -d 'function=get-teach-table-show' \
