@@ -22,7 +22,12 @@
     "teacher_list_en": "<div>Assistant Professor  Thattapon Surasak</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "37",
+    "pre_count": 26,
+    "queue_left": 5,
+    "count": 36
   },
   {
     "subject_id": "96642017",
@@ -47,7 +52,12 @@
     "teacher_list_en": "<div>Dr. Panisa Arthachinda</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะคณะวิศวกรรมศาสตร์</div>",
-    "rules_en": "<div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only School of Engineering</div>"
+    "rules_en": "<div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only School of Engineering</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 21,
+    "queue_left": 1,
+    "count": 43
   },
   {
     "subject_id": "96642017",
@@ -72,7 +82,12 @@
     "teacher_list_en": "<div>Dr. Panisa Arthachinda</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 9,
+    "queue_left": 1,
+    "count": 44
   },
   {
     "subject_id": "96642051",
@@ -97,7 +112,12 @@
     "teacher_list_en": "<div>Miss VARESA CHUWATTANAKUL</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "35",
+    "pre_count": 9,
+    "queue_left": 1,
+    "count": 34
   },
   {
     "subject_id": "96642083",
@@ -122,7 +142,12 @@
     "teacher_list_en": "<div> Minjade Paklapas</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 146,
+    "queue_left": 99,
+    "count": 44
   },
   {
     "subject_id": "96642083",
@@ -147,7 +172,12 @@
     "teacher_list_en": "<div> Minjade Paklapas</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 121,
+    "queue_left": 67,
+    "count": 42
   },
   {
     "subject_id": "96642091",
@@ -172,7 +202,12 @@
     "teacher_list_en": "<div>Aj. Gary Torremucha</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 76,
+    "queue_left": 24,
+    "count": 44
   },
   {
     "subject_id": "96642091",
@@ -197,7 +232,12 @@
     "teacher_list_en": "<div>Aj. Gary Torremucha</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 73,
+    "queue_left": 22,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96642091",
@@ -222,7 +262,12 @@
     "teacher_list_en": "<div>Aj. Gary Torremucha</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 71,
+    "queue_left": 24,
+    "count": 43
   },
   {
     "subject_id": "96642102",
@@ -247,7 +292,12 @@
     "teacher_list_en": "<div>Lecturer Sirapakaporn Khooratchawanich</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 61,
+    "queue_left": 8,
+    "count": 42
   },
   {
     "subject_id": "96642102",
@@ -272,7 +322,12 @@
     "teacher_list_en": "<div>Lecturer Sirapakaporn Khooratchawanich</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 50,
+    "queue_left": 5,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96642109",
@@ -297,7 +352,12 @@
     "teacher_list_en": "<div>Mr. WANCHALERM PROMSORN</div>",
     "remark": "GenEd or Free Electives for IT students//Engineering can enroll on 27 Nov 25.",
     "rules_th": "<div>เฉพาะสาขาเทคโนโลยีสารสนเทศทางธุรกิจ (นานาชาติ) (ทส.)</div>",
-    "rules_en": "<div>Only Curriculum Business Information Technology (ITX)</div>"
+    "rules_en": "<div>Only Curriculum Business Information Technology (ITX)</div>",
+    "closed": "0",
+    "limit": "35",
+    "pre_count": 16,
+    "queue_left": 0,
+    "count": 25
   },
   {
     "subject_id": "96642131",
@@ -322,7 +382,12 @@
     "teacher_list_en": "<div> Wanwisa Pongpluem</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 85,
+    "queue_left": 31,
+    "count": 44
   },
   {
     "subject_id": "96642138",
@@ -347,7 +412,12 @@
     "teacher_list_en": "<div>Mrs. KANKANIT KHWANPRUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 108,
+    "queue_left": 64,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96642143",
@@ -372,7 +442,12 @@
     "teacher_list_en": "<div>Lecturer DIGIT WANNISSORN</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 73,
+    "queue_left": 19,
+    "count": 41
   },
   {
     "subject_id": "96642143",
@@ -397,7 +472,12 @@
     "teacher_list_en": "<div>Lecturer DIGIT WANNISSORN</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 71,
+    "queue_left": 32,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96642162",
@@ -422,7 +502,12 @@
     "teacher_list_en": "<div>(Lecturers) Krongthip Junyaem</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 65010001 - 65019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 64010001 - 64019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 66110001 - 66119999</div><div>เฉพาะรหัสนักศึกษาในช่วง 65110001 - 65119999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div><div>Only Student ID in range 65010001 - 65019999</div><div>Only Student ID in range 64010001 - 64019999</div><div>Only Student ID in range 66110001 - 66119999</div><div>Only Student ID in range 65110001 - 65119999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div><div>Only Student ID in range 65010001 - 65019999</div><div>Only Student ID in range 64010001 - 64019999</div><div>Only Student ID in range 66110001 - 66119999</div><div>Only Student ID in range 65110001 - 65119999</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 29,
+    "queue_left": 1,
+    "count": 44
   },
   {
     "subject_id": "96642162",
@@ -447,7 +532,12 @@
     "teacher_list_en": "<div>(Lecturers) Krongthip Junyaem</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 65010001 - 65019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 64010001 - 64019999</div><div>เฉพาะรหัสนักศึกษาในช่วง 66110001 - 66119999</div><div>เฉพาะรหัสนักศึกษาในช่วง 65110001 - 65119999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div><div>Only Student ID in range 65010001 - 65019999</div><div>Only Student ID in range 64010001 - 64019999</div><div>Only Student ID in range 66110001 - 66119999</div><div>Only Student ID in range 65110001 - 65119999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div><div>Only Student ID in range 65010001 - 65019999</div><div>Only Student ID in range 64010001 - 64019999</div><div>Only Student ID in range 66110001 - 66119999</div><div>Only Student ID in range 65110001 - 65119999</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 16,
+    "queue_left": 0,
+    "count": 28
   },
   {
     "subject_id": "96643014",
@@ -472,7 +562,12 @@
     "teacher_list_en": "<div>Miss Kewarin Tantong</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 16,
+    "queue_left": 2,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643014",
@@ -497,7 +592,12 @@
     "teacher_list_en": "<div>Miss Kewarin Tantong</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 33,
+    "queue_left": 3,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643016",
@@ -522,7 +622,12 @@
     "teacher_list_en": "<div> Sirawit Sirirak</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 25,
+    "queue_left": 1,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643021",
@@ -547,7 +652,12 @@
     "teacher_list_en": "<div>Miss. Pathida Rujimora</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 14,
+    "queue_left": 1,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643026",
@@ -572,7 +682,12 @@
     "teacher_list_en": "<div>(Dr.) Sakdipat Krishanachinda</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 61,
+    "queue_left": 17,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643037",
@@ -597,7 +712,12 @@
     "teacher_list_en": "<div>Mr. PHAOPHAK SIRISUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 36,
+    "queue_left": 3,
+    "count": "เต็ม/Full"
   },
   {
     "subject_id": "96643046",
@@ -622,7 +742,12 @@
     "teacher_list_en": "<div>Mr. RONNACHAI TIYARATTANACHAI</div><div>Miss CHODCHANOK ATTAPHONG</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมชีวการแพทย์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาการจัดการวิศวกรรมและการเป็นผู้ประกอบการ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมเคมี (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมหุ่นยนต์และปัญญาประดิษฐ์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมการเงิน (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมเครื่องกล (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมไฟฟ้า (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมอุตสาหการและการจัดการโลจิสติกส์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมคอมพิวเตอร์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมพลังงาน (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมแมคคาทรอนิกส์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมหุ่นยนต์และปัญญาประดิษฐ์ (หลักสูตรนานาชาติ)(สจล. และ ม.หัวเฉียว) (วศ.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only Curriculum Biomedical Engineering (International Program) (ENG)</div><div>Only Curriculum Engineering Management and Entrepreneurship (International Program) (ENG)</div><div>Only Curriculum Chemical Engineering (International Program) (ENG)</div><div>Only Curriculum Robotics and Artificial Intelligence Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Mechanical Engineering (International Program) (ENG)</div><div>Only Curriculum Electrical Engineering (International Program) (ENG)</div><div>Only Curriculum Industrial Engineering and Logistics Management (International Program) (ENG)</div><div>Only Curriculum Computer Engineering (International Program) (ENG)</div><div>Only Curriculum Energy Engineering (International Program) (ENG)</div><div>Only Curriculum Mechatronics Engineering (International Program) (ENG)</div><div>Only Curriculum Robotics and Artificial Intelligence Engineering (International Program)(KMITL and HCU)  (ENG)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only Curriculum Biomedical Engineering (International Program) (ENG)</div><div>Only Curriculum Engineering Management and Entrepreneurship (International Program) (ENG)</div><div>Only Curriculum Chemical Engineering (International Program) (ENG)</div><div>Only Curriculum Robotics and Artificial Intelligence Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Mechanical Engineering (International Program) (ENG)</div><div>Only Curriculum Electrical Engineering (International Program) (ENG)</div><div>Only Curriculum Industrial Engineering and Logistics Management (International Program) (ENG)</div><div>Only Curriculum Computer Engineering (International Program) (ENG)</div><div>Only Curriculum Energy Engineering (International Program) (ENG)</div><div>Only Curriculum Mechatronics Engineering (International Program) (ENG)</div><div>Only Curriculum Robotics and Artificial Intelligence Engineering (International Program)(KMITL and HCU)  (ENG)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 18,
+    "queue_left": 1,
+    "count": 44
   },
   {
     "subject_id": "96644013",
@@ -647,7 +772,12 @@
     "teacher_list_en": "<div>Miss TANASSANEE JITPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 11,
+    "queue_left": 3,
+    "count": 38
   },
   {
     "subject_id": "96644020",
@@ -672,7 +802,12 @@
     "teacher_list_en": "<div>Mr. Pipat Peerayawattana</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 60,
+    "queue_left": 6,
+    "count": 44
   },
   {
     "subject_id": "96644030",
@@ -697,7 +832,12 @@
     "teacher_list_en": "<div>Miss JENJIRA JITPAIBOON</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 35
   },
   {
     "subject_id": "96644030",
@@ -722,7 +862,12 @@
     "teacher_list_en": "<div>Miss JENJIRA JITPAIBOON</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 6,
+    "queue_left": 0,
+    "count": 24
   },
   {
     "subject_id": "96644037",
@@ -747,7 +892,12 @@
     "teacher_list_en": "<div>Mr. ATICHAT RUNGSWANG</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 18,
+    "queue_left": 5,
+    "count": 39
   },
   {
     "subject_id": "96644042",
@@ -772,7 +922,12 @@
     "teacher_list_en": "<div>Mr. ANDY CUBALIT</div>",
     "remark": "GenEd Electives in Language and Communication skills // Engineering  can enroll on 27 Nov 25.",
     "rules_th": "<div>เฉพาะสาขาปัญญาออกแบบเพื่อเศรษฐกิจสร้างสรรค์ (หลักสูตรนานาชาติ) (สถ.)</div><div>เฉพาะสาขาศิลปะสร้างสรรค์และภัณฑารักษ์ศึกษา (หลักสูตรนานาชาติ) (สถ.)</div>",
-    "rules_en": "<div>Only Curriculum Design Intelligence for Creative Economy (International Program) (AAD)</div><div>Only Curriculum Creative Arts and Curatorial Studies (International Program) (AAD)</div>"
+    "rules_en": "<div>Only Curriculum Design Intelligence for Creative Economy (International Program) (AAD)</div><div>Only Curriculum Creative Arts and Curatorial Studies (International Program) (AAD)</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 1,
+    "queue_left": 0,
+    "count": 9
   },
   {
     "subject_id": "96644043",
@@ -797,7 +952,12 @@
     "teacher_list_en": "<div>Mr. Sorapong Nongsaeng</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 11,
+    "queue_left": 0,
+    "count": 37
   },
   {
     "subject_id": "96644044",
@@ -822,7 +982,12 @@
     "teacher_list_en": "<div>(Lecturers) Alisa Thammachak</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "38",
+    "pre_count": 12,
+    "queue_left": 1,
+    "count": 37
   },
   {
     "subject_id": "96644044",
@@ -847,7 +1012,12 @@
     "teacher_list_en": "<div>(Lecturers) Alisa Thammachak</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div>",
+    "closed": "0",
+    "limit": "45",
+    "pre_count": 8,
+    "queue_left": 0,
+    "count": 34
   },
   {
     "subject_id": "96644057",
@@ -872,7 +1042,12 @@
     "teacher_list_en": "<div>Miss PHANTHIKA TRAKUNSATHITMAN</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>",
+    "closed": "0",
+    "limit": "35",
+    "pre_count": 68,
+    "queue_left": 28,
+    "count": 34
   },
   {
     "subject_id": "96644063",
@@ -897,7 +1072,12 @@
     "teacher_list_en": "<div>Mr. THACHANAN SAMANMULYA</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะคณะวิศวกรรมศาสตร์</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> ()</div><div>เฉพาะสาขาเทคโนโลยีวัสดุชาญฉลาดและหุ่นยนต์และปัญญาประดิษฐ์ <สองปริญญา><หลักสูตรนานาชาติ> (นน.)</div>",
-    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>"
+    "rules_en": "<div>Only School of Engineering</div><div>Only Curriculum Smart Materials Technology and Robotics and AI Engineering <Dual Degree> <International Program> ()</div><div>Only Curriculum Smart Materials Technology and Robotics and AI <Dual Degree> <International Program> (NNT)</div>",
+    "closed": "0",
+    "limit": "50",
+    "pre_count": 89,
+    "queue_left": 37,
+    "count": 48
   },
   {
     "subject_id": "01006710",
@@ -922,7 +1102,12 @@
     "teacher_list_en": "<div>Mr. RONNACHAI TIYARATTANACHAI</div>",
     "remark": "Only retaking students",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมการเงิน (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 4,
+    "queue_left": 0,
+    "count": 11
   },
   {
     "subject_id": "01006717",
@@ -947,7 +1132,12 @@
     "teacher_list_en": "<div>Mr. RONNACHAI TIYARATTANACHAI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 32,
+    "queue_left": 0,
+    "count": 41
   },
   {
     "subject_id": "01006718",
@@ -972,7 +1162,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 34,
+    "queue_left": 0,
+    "count": 49
   },
   {
     "subject_id": "01286112",
@@ -997,7 +1192,12 @@
     "teacher_list_en": "<div>Mr. SURIPON SOMKUARNPANIT</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 34,
+    "queue_left": 0,
+    "count": 49
   },
   {
     "subject_id": "01286112",
@@ -1022,7 +1222,12 @@
     "teacher_list_en": "<div>Mr. SURIPON SOMKUARNPANIT</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 34,
+    "queue_left": 0,
+    "count": 49
   },
   {
     "subject_id": "01286131",
@@ -1047,7 +1252,12 @@
     "teacher_list_en": "<div>Mr. SARUN INTAKOSUM</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 31,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "01286131",
@@ -1072,7 +1282,12 @@
     "teacher_list_en": "<div>Mr. SARUN INTAKOSUM</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 31,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "96641007",
@@ -1097,7 +1312,12 @@
     "teacher_list_en": "<div>Dr. Attapol Moungsawad</div><div>Mr. RAVIPAT LAPCHAROENSUK</div><div>Miss SUPATCHAREE BHOOARWORN</div>",
     "remark": "GenEd Compulsories",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาสถาปัตยกรรมและวิศวกรรมโยธา (หลักสูตรนานาชาติ)(สองปริญญา) (สถ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Architecture and Civil Engineering (International Program)(Dual Degree) (AAD)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Architecture and Civil Engineering (International Program)(Dual Degree) (AAD)</div>",
+    "closed": "0",
+    "limit": "66",
+    "pre_count": 35,
+    "queue_left": 0,
+    "count": 55
   },
   {
     "subject_id": "96641010",
@@ -1122,7 +1342,12 @@
     "teacher_list_en": "<div>Miss THAPANEE KHEMANUWONG</div>",
     "remark": "GenEd Compulsories",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมการเงิน (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมไฟฟ้า (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div><div>เฉพาะสาขาสถาปัตยกรรมและวิศวกรรมโยธา (หลักสูตรนานาชาติ)(สองปริญญา) (สถ.)</div><div>เฉพาะรหัสนักศึกษาในช่วง 68010001 - 68019999</div>",
-    "rules_en": "<div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Electrical Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Architecture and Civil Engineering (International Program)(Dual Degree) (AAD)</div><div>Only Student ID in range 68010001 - 68019999</div>"
+    "rules_en": "<div>Only Curriculum Financial Engineering (International Program) (ENG)</div><div>Only Curriculum Electrical Engineering (International Program) (ENG)</div><div>Only Curriculum Software Engineering (International program) (ENG)</div><div>Only Curriculum Architecture and Civil Engineering (International Program)(Dual Degree) (AAD)</div><div>Only Student ID in range 68010001 - 68019999</div>",
+    "closed": "0",
+    "limit": "50",
+    "pre_count": 34,
+    "queue_left": 0,
+    "count": 48
   },
   {
     "subject_id": "01006716",
@@ -1147,7 +1372,12 @@
     "teacher_list_en": "<div>Mr. UDOM JANJARASSUK</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 7,
+    "queue_left": 0,
+    "count": 9
   },
   {
     "subject_id": "01286223",
@@ -1172,7 +1402,12 @@
     "teacher_list_en": "<div>Mr. PIPAT SOOKVATANA</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 25,
+    "queue_left": 0,
+    "count": 37
   },
   {
     "subject_id": "01286223",
@@ -1197,7 +1432,12 @@
     "teacher_list_en": "<div>Mr. PIPAT SOOKVATANA</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 25,
+    "queue_left": 0,
+    "count": 37
   },
   {
     "subject_id": "01286228",
@@ -1222,7 +1462,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 7,
+    "queue_left": 0,
+    "count": 11
   },
   {
     "subject_id": "01286232",
@@ -1247,7 +1492,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 25,
+    "queue_left": 0,
+    "count": 38
   },
   {
     "subject_id": "01286232",
@@ -1272,7 +1522,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 25,
+    "queue_left": 0,
+    "count": 38
   },
   {
     "subject_id": "01286241",
@@ -1297,7 +1552,12 @@
     "teacher_list_en": "<div>Mr. SUPHAMIT CHITTAYASOTHORN</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 24,
+    "queue_left": 0,
+    "count": 37
   },
   {
     "subject_id": "01286391",
@@ -1322,7 +1582,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 24,
+    "queue_left": 0,
+    "count": 38
   },
   {
     "subject_id": "96642022",
@@ -1347,7 +1612,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "GenEd Compulsory for Software Students year 2",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 20,
+    "queue_left": 0,
+    "count": 31
   },
   {
     "subject_id": "01286327",
@@ -1372,7 +1642,12 @@
     "teacher_list_en": "<div>ผศ.ดร. ฑิตยา หวานวารี</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 20,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "01286335",
@@ -1397,7 +1672,12 @@
     "teacher_list_en": "<div>Mr. ISARA ANANTAVRASILP</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 25,
+    "queue_left": 0,
+    "count": 35
   },
   {
     "subject_id": "01286335",
@@ -1422,7 +1702,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div>",
-    "rules_en": "<div>Only Student ID 66011109</div>"
+    "rules_en": "<div>Only Student ID 66011109</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "01286336",
@@ -1447,7 +1732,12 @@
     "teacher_list_en": "<div>Miss CHOMPOONUCH TENGCHAROEN</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 23,
+    "queue_left": 0,
+    "count": 35
   },
   {
     "subject_id": "01286606",
@@ -1472,7 +1762,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div>",
-    "rules_en": "<div>Only Student ID 66011109</div>"
+    "rules_en": "<div>Only Student ID 66011109</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "01286621",
@@ -1497,7 +1792,12 @@
     "teacher_list_en": "<div>นาย ไพโรจน์ เจตนชัย</div><div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 7,
+    "queue_left": 0,
+    "count": 15
   },
   {
     "subject_id": "01286621",
@@ -1522,7 +1822,12 @@
     "teacher_list_en": "<div>นาย ไพโรจน์ เจตนชัย</div><div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 7,
+    "queue_left": 0,
+    "count": 15
   },
   {
     "subject_id": "01286621",
@@ -1547,7 +1852,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div>",
-    "rules_en": "<div>Only Student ID 66011109</div>"
+    "rules_en": "<div>Only Student ID 66011109</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "01286621",
@@ -1572,7 +1882,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div>",
-    "rules_en": "<div>Only Student ID 66011109</div>"
+    "rules_en": "<div>Only Student ID 66011109</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "01286623",
@@ -1597,7 +1912,12 @@
     "teacher_list_en": "<div>ดร. ยรรยง เต็งอำนวย</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 10,
+    "queue_left": 0,
+    "count": 21
   },
   {
     "subject_id": "01286623",
@@ -1622,7 +1942,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div><div>เฉพาะรหัสนักศึกษา 65011445</div><div>เฉพาะรหัสนักศึกษา 65011463</div><div>เฉพาะรหัสนักศึกษา 65011617</div>",
-    "rules_en": "<div>Only Student ID 66011109</div><div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>"
+    "rules_en": "<div>Only Student ID 66011109</div><div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 3
   },
   {
     "subject_id": "01286642",
@@ -1647,7 +1972,12 @@
     "teacher_list_en": "<div>Mr. PIPAT SOOKVATANA</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 10,
+    "queue_left": 0,
+    "count": 13
   },
   {
     "subject_id": "01286643",
@@ -1672,7 +2002,12 @@
     "teacher_list_en": "<div>นาย ไพโรจน์ เจตนชัย</div><div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 6,
+    "queue_left": 0,
+    "count": 8
   },
   {
     "subject_id": "01286664",
@@ -1697,7 +2032,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 8,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "01286665",
@@ -1722,7 +2062,12 @@
     "teacher_list_en": "<div>Mr. YUTTANA KITJAIDURE</div><div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 7,
+    "queue_left": 0,
+    "count": 5
   },
   {
     "subject_id": "01286990",
@@ -1747,7 +2092,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 20,
+    "queue_left": 0,
+    "count": 34
   },
   {
     "subject_id": "01286327",
@@ -1772,7 +2122,12 @@
     "teacher_list_en": "",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 65011445</div><div>เฉพาะรหัสนักศึกษา 65011463</div><div>เฉพาะรหัสนักศึกษา 65011617</div>",
-    "rules_en": "<div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>"
+    "rules_en": "<div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 3
   },
   {
     "subject_id": "01286334",
@@ -1797,7 +2152,12 @@
     "teacher_list_en": "",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 65011445</div><div>เฉพาะรหัสนักศึกษา 65011463</div><div>เฉพาะรหัสนักศึกษา 65011617</div>",
-    "rules_en": "<div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>"
+    "rules_en": "<div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 3
   },
   {
     "subject_id": "01286337",
@@ -1822,7 +2182,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 22,
+    "queue_left": 0,
+    "count": 42
   },
   {
     "subject_id": "01286623",
@@ -1847,7 +2212,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "สำหรับนศ.โครงการ 2 ปริญญา KMITL-UQ",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 66011109</div><div>เฉพาะรหัสนักศึกษา 65011445</div><div>เฉพาะรหัสนักศึกษา 65011463</div><div>เฉพาะรหัสนักศึกษา 65011617</div>",
-    "rules_en": "<div>Only Student ID 66011109</div><div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>"
+    "rules_en": "<div>Only Student ID 66011109</div><div>Only Student ID 65011445</div><div>Only Student ID 65011463</div><div>Only Student ID 65011617</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 3
   },
   {
     "subject_id": "01286992",
@@ -1872,7 +2242,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 14,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "96642037",
@@ -1897,7 +2272,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "GenEd Compulsory for Software Students year 4",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมซอฟต์แวร์ (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Software Engineering (International program) (ENG)</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 22,
+    "queue_left": 0,
+    "count": 43
   },
   {
     "subject_id": "13016213",
@@ -1922,7 +2302,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016214",
@@ -1947,7 +2332,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "เปิดคู่รายวิชา 01286232 SOFTWARE ENGINEERING PRINCIPLES",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016215",
@@ -1972,7 +2362,12 @@
     "teacher_list_en": "<div>Mr. VISIT HIRANKITTI</div>",
     "remark": "เปิดคู่รายวิชา 01286232 SOFTWARE ENGINEERING PRINCIPLES",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016237",
@@ -1997,7 +2392,12 @@
     "teacher_list_en": "<div>Mr. SUPHAMIT CHITTAYASOTHORN</div><div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "เปิดคู่รายวิชา 01286241 DATABASE SYSTEMS",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016241",
@@ -2022,7 +2422,12 @@
     "teacher_list_en": "<div>Mr. PIPAT SOOKVATANA</div>",
     "remark": "เปิดคู่รายวิชา 01286223 COMPUTER NETWORKS",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016242",
@@ -2047,7 +2452,12 @@
     "teacher_list_en": "<div>Mr. PIPAT SOOKVATANA</div>",
     "remark": "เปิดคู่รายวิชา 01286223 COMPUTER NETWORKS",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "13016320",
@@ -2072,7 +2482,12 @@
     "teacher_list_en": "<div>นาย ไพโรจน์ เจตนชัย</div><div>Mr. VISIT HIRANKITTI</div>",
     "remark": "เปิดคู่รายวิชา 01286621 COMPUTER GRAPHICS AND MIXED REALITY",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "13016395",
@@ -2097,7 +2512,12 @@
     "teacher_list_en": "<div>Mr. NATTHAPONG JUNGTEERAPANICH</div>",
     "remark": "เปิดคู่รายวิชา 01286228 ALGORITHM DESIGN AND ANALYSIS",
     "rules_th": "<div>เฉพาะรหัสนักศึกษา 64011657</div>",
-    "rules_en": "<div>Only Student ID 64011657</div>"
+    "rules_en": "<div>Only Student ID 64011657</div>",
+    "closed": "0",
+    "limit": "-",
+    "pre_count": 0,
+    "queue_left": 0,
+    "count": 0
   },
   {
     "subject_id": "01306214",
@@ -2122,7 +2542,12 @@
     "teacher_list_en": "<div>Miss PITCHA PRASITMEEBOON</div><div>Miss. Rapeepan Promyoo</div>",
     "remark": "",
     "rules_th": "<div>เฉพาะสาขาวิศวกรรมไฟฟ้า (หลักสูตรนานาชาติ) (วศ.)</div>",
-    "rules_en": "<div>Only Curriculum Electrical Engineering (International Program) (ENG)</div>"
+    "rules_en": "<div>Only Curriculum Electrical Engineering (International Program) (ENG)</div>",
+    "closed": "0",
+    "limit": "60",
+    "pre_count": 18,
+    "queue_left": 0,
+    "count": 19
   },
   {
     "subject_id": "16166323",
@@ -2147,7 +2572,12 @@
     "teacher_list_en": "<div>Miss PICHSINEE SOONSAP</div>",
     "remark": "เลือกเสรี",
     "rules_th": "",
-    "rules_en": ""
+    "rules_en": "",
+    "closed": "0",
+    "limit": "40",
+    "pre_count": 92,
+    "queue_left": 46,
+    "count": 38
   },
   {
     "subject_id": "14026421",
@@ -2172,7 +2602,12 @@
     "teacher_list_en": "<div>Mr. PURIS SORNSARUHT</div>",
     "remark": "ยกเว้น นักศึกษาคณะบริหารธุรกิจ ไม่อนุญาตให้ลงทะเบียนเรียนในรายวิชานี่",
     "rules_th": "",
-    "rules_en": ""
+    "rules_en": "",
+    "closed": "0",
+    "limit": "100",
+    "pre_count": 223,
+    "queue_left": 68,
+    "count": 83
   },
   {
     "subject_id": "14026421",
@@ -2197,7 +2632,12 @@
     "teacher_list_en": "<div>Mr. PURIS SORNSARUHT</div>",
     "remark": "ยกเว้น นักศึกษาคณะบริหารธุรกิจ ไม่อนุญาตให้ลงทะเบียนเรียนในรายวิชานี่",
     "rules_th": "",
-    "rules_en": ""
+    "rules_en": "",
+    "closed": "0",
+    "limit": "100",
+    "pre_count": 141,
+    "queue_left": 13,
+    "count": 94
   },
   {
     "subject_id": "90642162",
@@ -2222,7 +2662,12 @@
     "teacher_list_en": "<div> Teeradet Chuenpraphanusprn</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "วิศว ชั้นปี 3 ขึ้นไป",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>",
+    "closed": "0",
+    "limit": "90",
+    "pre_count": 61,
+    "queue_left": 0,
+    "count": 57
   },
   {
     "subject_id": "90642162",
@@ -2247,7 +2692,12 @@
     "teacher_list_en": "<div> Wanwisa Pongpluem</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "วิศว ชั้นปี 3 ขึ้นไป",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>",
+    "closed": "0",
+    "limit": "90",
+    "pre_count": 41,
+    "queue_left": 0,
+    "count": 72
   },
   {
     "subject_id": "90642162",
@@ -2272,7 +2722,12 @@
     "teacher_list_en": "<div> Teeradet Chuenpraphanusprn</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "วิศว ชั้นปี 3 ขึ้นไป",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>",
+    "closed": "0",
+    "limit": "90",
+    "pre_count": 12,
+    "queue_left": 0,
+    "count": 55
   },
   {
     "subject_id": "90642162",
@@ -2297,7 +2752,12 @@
     "teacher_list_en": "<div> Wanwisa Pongpluem</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "วิศว ชั้นปี 3 ขึ้นไป",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>",
+    "closed": "0",
+    "limit": "90",
+    "pre_count": 2,
+    "queue_left": 0,
+    "count": 1
   },
   {
     "subject_id": "90642162",
@@ -2322,6 +2782,11 @@
     "teacher_list_en": "<div>Miss. Rhatiya Nonthirach</div><div>Mr. RAVIPAT LAPCHAROENSUK</div>",
     "remark": "วิศว ชั้นปี 3 ขึ้นไป",
     "rules_th": "<div>เฉพาะรหัสนักศึกษาในช่วง 66010001 - 66019999</div>",
-    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>"
+    "rules_en": "<div>Only Student ID in range 66010001 - 66019999</div>",
+    "closed": "0",
+    "limit": "90",
+    "pre_count": 31,
+    "queue_left": 0,
+    "count": 66
   }
 ]
