@@ -53,11 +53,6 @@ curl 'https://regis.reg.kmitl.ac.th/api' \
     remark: .remark,
     rules_th: .rules_th,
     rules_en: .rules_en,
-    closed: .closed,
-    limit: .limit,
-    pre_count: .pre_count,
-    queue_left: .queue_left,
-    count: .count
   }
 ' \
 | jq -s
