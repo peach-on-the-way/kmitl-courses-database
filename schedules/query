@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+ # School of Engineering
+ # Computer Engineering
+ # Software Engineering (International program)
+ # All class year
+
+curl 'https://regis.reg.kmitl.ac.th/api' \
+  --get \
+  -d 'function=get-teach-table-show' \
+  -d 'mode=by_class' \
+  -d 'selected_year=2568' \
+  -d 'selected_semester=2' \
+  -d 'selected_faculty=01' \
+  -d 'selected_department=05' \
+  -d 'selected_curriculum=115' \
+  -d 'selected_class_year=0' \
+  -d 'search_all_faculty=false' \
+  -d 'search_all_department=false' \
+  -d 'search_all_curriculum=false' \
+  -d 'search_all_class_year=true' \
+| jq '
+  .[]
+  | .teachtable
+  | .[]
+  | select(.subject_type_name_en | contains("Required Subject"))
+  | .data
+  | .[]
+  | {
+    subject_id: .subject_id,
+    subject_name_en: .subject_name_en,
+    subject_name_th: .subject_name_th,
+    credit: .credit_str,
+    section: .section,
+    class_type: .lect_or_prac
+      | gsub("ป"; "Practice")
+      | gsub("ท"; "Theory"),
+    teach_day_no: .teach_day,
+    teach_day: .teach_day
+      | gsub("1"; "Sunday")
+      | gsub("2"; "Monday")
+      | gsub("3"; "Tuesday")
+      | gsub("4"; "Wednesday")
+      | gsub("5"; "Thursday")
+      | gsub("6"; "Friday")
+      | gsub("7"; "Saturday"),
+    teach_time_start: .teach_time,
+    teach_time_end: .teach_time2,
+    extra_teach_time: .teachtime_str,
+    classroom: .classroom,
+    room_no: .room_no,
+    teacher_list_th: .teacher_list_th,
+    teacher_list_en: .teacher_list_en,
+    remark: .remark
+  }
+' \
+| jq -s
