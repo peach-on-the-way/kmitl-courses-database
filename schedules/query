@@ -23,7 +23,6 @@ curl 'https://regis.reg.kmitl.ac.th/api' \
   .[]
   | .teachtable
   | .[]
-  | select(.subject_type_name_en | contains("Required Subject"))
   | .data
   | .[]
   | {
